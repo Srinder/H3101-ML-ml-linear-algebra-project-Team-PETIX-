@@ -219,7 +219,6 @@ a3c0fe03-4de6-4e05-becb-c67e93e2b97f,f35e8187-3257-4de9-8fe1-bdfb26a95ecc,2023-1
 cfb081a4-4be0-4709-8a6c-7bb656d57d3d,bdd49e80-4003-41ca-86d3-8327d2d50cb4,2022-08-05,995.65,Electronics,Debit Card,False,995.65,Numeric
 9e5a62bf-b2cc-4743-b266-252c16a36f83,97f0f226-6531-4acb-b5fc-a3bbcb591c17,2023-01-06,,Health & Beauty,PayPal,False,,Missing
 4f1d7108-1020-4ed3-99ce-cbf717ad9132,24695fce-e55b-4925-bec2-cc4706da58f5,2023-08-29,,Clothing,Credit Card,False,,Missing
-a9af986b-d677-421a-81df-3d289ce9e38f,5f93f1dc-0363-4e69-979b-f5d58fd42658,2023-09-30,125.77,Unknown,Bank Transfer,True,125.77,Numeric
 3cff3ced-315b-413b-9c0b-99bae1c5f85d,950d9813-5867-47e3-9a39-f9be25f0bc65,2024-03-16,554.21,Clothing,Debit Card,False,554.21,Numeric
 03d6d674-5310-4a05-ab0b-8cfedc46a1ab,32cdd7cb-3fb6-4146-bfcf-c336aacf1394,2024-01-15,794.25,Home & Garden,Credit Card,False,794.25,Numeric
 e54d1219-b6b3-4b5c-8b75-62f4148c23b6,bac847ec-66d9-4c69-8db3-e3ef958d3879,2024-01-06,682.06,Electronics,PayPal,False,682.06,Numeric
@@ -282,7 +281,6 @@ f56e56b7-bbde-455c-b570-61cd2005b4e4,3b1349d6-3d96-4c9c-a563-e98249070f67,2023-0
 74653505-85eb-4155-a90b-abe2b30179db,5d376939-3ccf-4ec5-8616-283b7b113fe4,2023-07-28,27.6,Unknown,PayPal,False,27.6,Numeric
 46e97136-3a44-4567-a58c-a434c0b3821f,1e998433-de67-46d7-a317-1eba703e2920,2022-11-28,891.12,Electronics,Bank Transfer,False,891.12,Numeric
 b10dbfea-ac81-4cdf-be3c-62248bbd5838,02a36fd6-8d10-4179-8b84-f011e8551a64,2024-06-02,,Health & Beauty,Debit Card,False,,Missing
-4aab54a1-b555-48ec-9b0f-0e87abdcc45b,7202af3a-448f-4970-9674-40f736cfdfde,2023-02-26,634.41,Unknown,PayPal,True,634.41,Numeric
 23c9a49a-62de-4659-8a96-8e0313f04cad,3a970fe8-409d-4474-aaeb-d9c9234549d7,2024-04-07,961.69,Automotive,Debit Card,False,961.69,Numeric
 c8411d2c-93ac-4dde-9e5f-f6a4b444a236,98cf3158-fb3a-43c3-ba44-46388bea125d,2023-02-06,,Home & Garden,Debit Card,False,,Missing
 c6789ac7-81c7-469a-a613-fe1fe1487953,eba96ef9-4992-43c7-a701-20e845720bfa,2022-10-19,418.22,Clothing,Debit Card,False,418.22,Numeric
@@ -412,7 +410,6 @@ f288eca4-19dc-4cb3-87bc-082a146ab029,80ddf935-4910-46db-804e-b7e8a579d1c7,2022-0
 34c5a998-e0ec-41b1-a904-5e02e75ce5c2,ec6a44c3-0e25-4bad-9de2-417b6116a2f0,2023-02-26,332.97,Clothing,Credit Card,False,332.97,Numeric
 40b91e2f-7da8-48ea-97ec-f623cd22268f,f9db93c5-f9ba-4bf9-9303-86954afeedc7,2023-02-20,191.99,Home & Garden,Credit Card,False,191.99,Numeric
 9b5d531c-c43b-4227-8f62-1fe37743eead,c44353aa-99e4-4bc7-97a8-33e744b5f358,2023-12-12,963.71,Unknown,Bank Transfer,False,963.71,Numeric
-6a84f1a7-f636-4300-bd8d-c7f888460829,185ee140-348a-4461-bd40-07a7e8535815,2023-10-09,953.86,Health & Beauty,PayPal,True,953.86,Numeric
 2c7c61c3-3657-463a-aab2-a2d355e884f8,a6677b85-55a6-4817-a81e-ce7848b69c4b,2023-01-05,515.86,Home & Garden,Bank Transfer,False,515.86,Numeric
 6d34f2f6-7b86-438c-87a9-0d8da1151178,b34659fb-17ad-4bc1-a3d4-03896741f892,2023-07-06,891.9,Health & Beauty,Debit Card,False,891.9,Numeric
 0f5a8d28-2ddd-497a-a2e0-74a80c165a91,c681a82d-c5b6-4bee-8878-2448783458e0,2022-08-29,,Health & Beauty,Bank Transfer,False,,Missing
@@ -430,7 +427,6 @@ f4274d3a-db95-4b02-b4cc-2b414f25d80d,8f92a3bd-5081-4b30-bebf-2387417f3eff,2024-0
 ca71ef08-4778-436e-a973-c717fd1cbe1a,b0f58f3b-e31c-4cfd-bdd6-1fdecdbe12d4,2022-07-13,883.22,Automotive,Bank Transfer,False,883.22,Numeric
 d59cf513-ec9c-40e3-919c-57e7893b0ae6,d4e6455f-a601-4425-a733-2dbd44b8213c,2023-04-19,494.23,Home & Garden,PayPal,False,494.23,Numeric
 c26a36a7-c23f-4d97-813a-8fefe5de2454,eb353bf6-8864-4c4b-a9a8-ebce6fcae4a1,2022-12-08,942.44,Home & Garden,Credit Card,False,942.44,Numeric
-b94b3531-591d-445c-b282-dcacb0baca5b,27fb25aa-f148-423f-967c-4d1764e26b29,2022-07-30,506.96,Automotive,Credit Card,True,506.96,Numeric
 ccf4d58b-5087-45c8-a8f8-bb99be9a13d1,36d14454-fb95-4b19-a574-e137ddb55528,2024-02-09,,Electronics,Credit Card,False,Free,Non-numeric: review
 5251218b-9e9b-41c5-8956-0a17d71f1165,5b6a085a-df0f-4a2c-a9aa-600a0954f083,2022-11-18,989.55,Clothing,Credit Card,False,989.55,Numeric
 ea4f48c7-7862-4f92-9a6f-1c2778adfe56,c5885f19-418f-44bf-91fc-d8fa80251941,2023-07-27,215.35,Health & Beauty,Bank Transfer,False,215.35,Numeric
@@ -562,7 +558,6 @@ c3a3cdb4-7e4f-4017-a8bf-5f329b6938c8,a27aebb2-795a-42a7-9539-264bfdeee548,2023-0
 060cfd42-8d99-4264-aa27-e8d0b537e207,5a92d779-f629-47c7-8566-3a5b569699b2,2022-09-10,983.79,Automotive,Credit Card,False,983.79,Numeric
 a2f70070-c1b3-4802-a195-3de5441635ae,a7da984d-b9e7-4128-bf7a-3e773c6cea66,2023-01-04,117.03,Automotive,Bank Transfer,False,117.03,Numeric
 705b6742-d75d-4f53-a4e9-231ba146f34d,9611c493-9a4a-4b7f-88c1-865d15f3b832,2023-10-13,475.93,Electronics,Bank Transfer,False,475.93,Numeric
-f05ec030-ac96-417d-a73c-e3ca3adc1a30,f39c8b1d-595a-4656-8108-25981bf3fa14,2023-03-04,-100.0,Electronics,Debit Card,True,-100,Negative: review
 1fac8ad1-9a12-4370-bb35-5e1aa8b3419e,1df57198-5f6e-40db-81c6-ecb06da9a78d,2024-05-30,457.83,Unknown,Credit Card,False,457.83,Numeric
 764ab2cd-20c1-4f1b-9082-5e1f9ed9d0b1,9001a3d4-2404-4505-8496-7d4039402ac7,2023-01-14,727.07,Electronics,Credit Card,False,727.07,Numeric
 b1c1b919-9783-4528-893c-3368d978e622,a866a265-063e-4807-abea-b5580cfed103,2023-03-22,84.89,Unknown,Debit Card,False,84.89,Numeric
@@ -628,7 +623,6 @@ e9cae5d3-0e6e-4f3d-95db-26bb00753913,24db8c3a-c9cf-40b4-b69b-556bf06e1fe2,2023-1
 ec58ff99-ede4-4b51-8b0c-efdbb61275a7,65520cc1-c798-4024-9caf-e1f893ef9cac,2022-11-18,184.02,Health & Beauty,PayPal,False,184.02,Numeric
 01264132-b542-471e-ba65-038975091843,0d5fc36a-4fe1-4c0b-9eb9-d4e382c886fc,2023-07-31,389.67,Automotive,Credit Card,False,389.67,Numeric
 0fb44d2e-abc4-4ada-8b93-d376da47e3b0,6a5413a8-40a2-476f-a667-ed2a602e3f96,2024-06-01,179.93,Automotive,Bank Transfer,False,179.93,Numeric
-086370e7-8884-47d7-89b0-776401a43e1c,652636b6-5c72-44e1-aefb-6adce412ee75,2023-12-05,0.0,Electronics,Debit Card,True,0,Zero: retained
 6cc1eaef-8496-4485-af7a-9812ccdac060,13b4f5d9-c42a-483a-8e8e-d0e45da688b7,2022-10-30,191.55,Health & Beauty,PayPal,False,191.55,Numeric
 999ad741-dfd2-46fe-afcb-7d1a3347c5c1,c718a192-92e2-4ab9-906f-81829d4c8172,2022-09-04,141.31,Health & Beauty,Debit Card,False,141.31,Numeric
 eec67dd0-87ec-4eab-8ed8-0f6bf5470c49,46c6ab77-7c7f-43c1-8cbb-3aff2de37a1b,2023-03-17,706.83,Home & Garden,PayPal,False,706.83,Numeric
@@ -806,7 +800,6 @@ b22eb6bb-1742-4cc3-ab63-3b56ad1f8121,b988de4c-a2fb-4fca-9f98-c1ca897b2e77,2024-0
 0064a8b2-71d3-41c1-a46a-6eea56fdff91,e815b8f4-37d5-4236-85a7-1ed0dadd45e9,2023-03-28,781.49,Electronics,Debit Card,False,781.49,Numeric
 8a4e842f-affe-430d-81a5-15102e10eece,e6172db6-ab63-4f6f-bd28-6439e96cda2a,2023-04-15,10.21,Clothing,PayPal,False,10.21,Numeric
 ea9c6ace-9cbb-43fa-a98f-7825fcc7508e,5c41afd0-dbea-4956-ad19-c67db3adb792,2023-06-07,,Clothing,Bank Transfer,False,,Missing
-7c7df909-aa25-48c7-af9d-6ebe714b28b6,eb26a4f4-5af2-4e25-b1f2-fd0de5583f7b,2023-03-23,50.07,Automotive,Bank Transfer,True,50.07,Numeric
 59e1ccfe-8f67-4f2c-8e4c-f1483df35ae8,e6d0dfac-f9c2-486d-b203-c6b74db2438a,2023-02-24,665.7,Clothing,Credit Card,False,665.7,Numeric
 1ffded5f-b38d-45b7-943d-4100779c3599,4c7ea309-a542-4fb9-bead-3badf7f404f8,2022-08-06,548.28,Electronics,Credit Card,False,548.28,Numeric
 e8a5fdb8-fcd9-450c-9635-e376266c8bcf,1d6d18b4-4311-4688-bf03-a8005953adb5,2022-10-23,574.47,Home & Garden,Credit Card,False,574.47,Numeric
@@ -939,7 +932,6 @@ eb263c61-e957-4ee6-92e0-b1fbb45b6412,b3414da7-5cf9-4ef6-abee-5a65d32970f2,2024-0
 b8749ac7-628a-4fc6-81f4-8fd885fcca3c,90d9ff23-6a4f-4aea-a5aa-a60f171e05a5,2024-06-23,,Electronics,PayPal,False,,Missing
 4605103f-9b58-43c8-baf9-73abfb2c0441,91799aa0-6fb2-4d31-8380-12f498d45be0,2022-10-31,289.16,Clothing,Credit Card,False,289.16,Numeric
 6cd42d95-7e8b-415c-bb5b-e083adbf74a5,c38a1d5b-06dc-479e-8ef1-2bf5a843da96,2023-09-23,353.02,Home & Garden,Bank Transfer,False,353.02,Numeric
-79fc606a-c02c-4c39-b065-3e88a59b366c,7fbe5cc4-a35e-4e8e-89d7-7b439659b9f6,2022-07-14,272.68,Clothing,Debit Card,True,272.68,Numeric
 c71e53bd-d52e-43c7-853a-bde70ff3cf38,d2c17b77-9002-46cf-af85-5a9487c621fb,2023-05-17,908.12,Unknown,Bank Transfer,False,908.12,Numeric
 764ab2cd-20c1-4f1b-9082-5e1f9ed9d0b1,86bc49fe-4d3c-4d0d-884c-68d5349209ec,2022-12-09,236.09,Health & Beauty,Bank Transfer,False,236.09,Numeric
 9c52add6-d6da-42b9-be78-9a5d2d771aec,b06fed8f-21be-4d09-b486-d52c5e74b63b,2023-03-13,776.57,Health & Beauty,Debit Card,False,776.57,Numeric
@@ -1092,7 +1084,6 @@ e8960cfa-6e94-4260-8a99-74188b90a1fa,a5fe56c5-07ea-438d-8d59-4a65aea1945f,2023-0
 937245e3-10c3-446d-ab02-f916fb556395,0f688fb0-8858-4b50-9582-67d5e84baf3f,2023-08-18,538.73,Health & Beauty,Credit Card,False,538.73,Numeric
 9047570a-6d08-4ff0-8e07-9009d87ac90b,079f08b6-05c7-431a-98f0-2a6e981f1098,2024-02-20,542.11,Health & Beauty,Credit Card,False,542.11,Numeric
 cbfff6f3-c193-4b56-a6ff-92bc84ad3789,49c65a40-dee3-4cee-afac-3d594c3bfec6,2022-12-13,,Health & Beauty,Credit Card,False,,Missing
-8de3d5b9-1f1a-4bd7-b242-6cb09d7f3609,5fca256b-cd5a-48fa-8b07-37f39adde8c9,2023-05-17,764.92,Clothing,Bank Transfer,True,764.92,Numeric
 43230006-9636-403f-966c-f7e3166e504d,835b4e5d-8b5a-465a-af65-2ea388c9d90a,2024-12-06,775.61,Automotive,Credit Card,False,775.61,Numeric
 57ed9f50-dca0-44b5-9d66-807135eccbee,a13c306a-7fdd-4e2b-87f5-0d2681c63094,2023-02-06,764.16,Home & Garden,PayPal,False,764.16,Numeric
 54a1bbb2-9523-41a7-b8b5-9acd08f46da4,42b95b58-8e49-4d8f-98f7-76f361a6f121,2022-10-20,,Health & Beauty,PayPal,False,,Missing
@@ -1638,7 +1629,6 @@ b0099c65-5803-4c0e-9747-44f2ea1157cc,029140b9-b485-4b1e-a08c-5a231fed9c25,2022-1
 c948b688-1a1c-4d0d-828d-e130777f1fbd,efc5a76b-ffc9-46a8-a5ed-260b50117f95,2022-09-02,496.7,Home & Garden,Bank Transfer,False,496.7,Numeric
 4d348827-d2bd-4303-99aa-97a2ce15563f,36de1f3c-b5c6-48d1-b5cb-5c862617cf13,2022-11-27,567.37,Home & Garden,PayPal,False,567.37,Numeric
 e6f38640-260c-4c82-bb98-1a5ad730365e,4b636eda-fdd9-43d0-a93e-aed1a5829a61,2022-07-23,428.35,Home & Garden,Bank Transfer,False,428.35,Numeric
-24b043e8-6fca-4d86-95a8-837e0ca09072,dc9453eb-3922-4a5f-91c0-ccb226ca91f7,2023-06-01,446.84,Health & Beauty,Debit Card,True,446.84,Numeric
 1d4e578b-738c-4913-84f4-b008488eab48,ccee0d67-fb3f-42f1-8ac9-8556df63875e,2023-08-29,503.42,Electronics,Bank Transfer,False,503.42,Numeric
 d0874909-2b8a-4921-bec7-610d9452b113,09a62f43-8f16-43a1-8fdd-a4bd3894c3ce,2023-11-19,988.33,Electronics,Credit Card,False,988.33,Numeric
 c31b7475-f089-4708-be02-df18e1348a5e,bcb9e043-a7a0-4da8-a976-037bbd8b3dbf,2024-06-06,830.08,Electronics,PayPal,False,830.08,Numeric
@@ -2080,7 +2070,6 @@ ce5cf079-859b-43fa-9609-c6bb7e12c6b7,7c1318dd-c461-4bca-94ed-501c5266fa10,2023-0
 4f826eca-8187-4f86-bb0b-37338c896d50,4f6e0389-7ecd-4291-a710-7df023fff5ca,2024-01-14,,Electronics,Credit Card,False,,Missing
 06589cf5-fcb7-4230-b38d-5c0af8e75922,cccaec9f-a154-4016-bd66-ccba6fe9b6e8,2024-03-26,387.83,Electronics,Bank Transfer,False,387.83,Numeric
 edbc4b21-e53a-4f7c-bf1f-7dc9f9557ca5,b78a816e-8c85-4b6a-b112-01cba5d524be,2023-08-06,213.16,Automotive,Debit Card,False,213.16,Numeric
-e7cf6999-b4ec-4ce4-bb09-bfd18d61d933,2e0b66a9-af5d-4cf9-bb60-55ab2932edee,2023-05-10,504.42,Electronics,Bank Transfer,True,504.42,Numeric
 49f06ea9-4ae5-4ce5-98ce-d2c2f6f15cbd,f27e5e7a-e3bc-4b04-874d-61f35cc840c3,2023-07-06,965.0,Clothing,Credit Card,False,965,Numeric
 8a6ac6de-96f0-4383-a87c-34d12e104bb8,9fc5af39-e69c-492e-b09b-6176cbcc7d5f,2022-11-10,656.14,Electronics,PayPal,False,656.14,Numeric
 347222c1-9766-4ae8-9263-4e509359b409,4c9eec53-4ef0-4dd1-a3bf-9112d21da7e9,2023-03-28,28.82,Health & Beauty,Debit Card,False,28.82,Numeric
@@ -2117,7 +2106,6 @@ febc5ef6-d9f5-459d-b7ef-40fdb9c2588b,97d3e8a3-b8d5-4f33-8859-664472aa9a4f,2023-0
 6e820fd4-83e9-41c3-8c2a-4c39b93d9a22,e3250c71-fb18-4391-82e5-50b09b64f453,2024-02-05,341.7,Clothing,Debit Card,False,341.7,Numeric
 53576cf2-a4b7-49c4-b114-7914ce0a4837,69d80f6b-1e4a-4d22-9f0a-ecb2d2db5f87,2023-12-18,590.79,Clothing,Bank Transfer,False,590.79,Numeric
 61adc65c-ddcd-43fc-85c4-9e8d60daeae3,bca76b45-6049-4cbb-a89c-4aea4d41fbbc,2023-05-05,94.09,Health & Beauty,Debit Card,False,94.09,Numeric
-778da54b-8f96-4609-a21b-bba3d7f071ea,022cfd97-a8e8-4e50-8700-2720d52bfd75,2022-08-23,586.87,Health & Beauty,PayPal,True,586.87,Numeric
 70a64f68-8300-40b7-9d3e-932bf73ba7e1,6e77bb99-58c3-4825-a791-7e95c72ec635,2023-01-05,474.55,Health & Beauty,Debit Card,False,474.55,Numeric
 d6fe4961-6886-49c3-b6be-07bab52aa19f,219815f7-55f9-4524-baa8-b4154ac68c41,2023-07-27,373.85,Clothing,Credit Card,False,373.85,Numeric
 28a886bd-0c98-4532-bbb3-4ba77a9ee275,3044af7d-d422-474b-9b9b-687880505ffe,2023-05-09,,Clothing,Credit Card,False,Free,Non-numeric: review
@@ -2370,7 +2358,6 @@ ac0248f2-5af3-46f9-9cec-2fb5a478f47a,56cbeb24-93bf-4778-b8af-b31e72ec6a4e,2024-0
 8293800b-3b95-42b6-b9bb-80737109e549,3a1ef1b5-c087-4fc6-b3ec-32b50b8d354c,2023-05-26,765.79,Health & Beauty,PayPal,False,765.79,Numeric
 49f06ea9-4ae5-4ce5-98ce-d2c2f6f15cbd,2a01060c-c684-4d7e-a64e-eac92a24bb7c,2023-06-18,510.33,Home & Garden,Bank Transfer,False,510.33,Numeric
 3961c9cd-9e5c-45b4-9d85-7614fd1b8323,965f9986-1598-42bd-a1c1-7f4d6f1b185e,2023-03-17,751.48,Home & Garden,Credit Card,False,751.48,Numeric
-321acf6c-c401-4f7b-9835-bfb7cd5e48ff,62186b07-9cda-44c5-bf76-bdb0f97aaf39,2023-05-04,,Home & Garden,Bank Transfer,True,,Missing
 8593f47f-2dce-4527-bb20-b98f8ea998b9,43ef8d10-a0dc-4a02-b964-86f1109f0798,2023-11-22,264.81,Clothing,Bank Transfer,False,264.81,Numeric
 273597c1-d519-4ce1-bf81-f8027e85f8e9,aabadd6b-911d-43aa-b177-94914578af75,2023-01-06,127.64,Electronics,Credit Card,False,127.64,Numeric
 2dc4607e-012f-42ce-bcbe-2508d828cf4c,71545c6d-1808-4ef7-89ad-be6b387b180f,2024-05-06,,Unknown,PayPal,False,,Missing
@@ -2609,7 +2596,6 @@ d8128163-77f8-4389-b4d4-2afff0e05e7a,c0d0ebef-70c0-44b1-97f1-33667d1c5b38,2022-0
 32e4c60a-8175-452c-8a6d-fa40f06e738d,9f2bc4ac-a550-4597-bf0d-2f47e3105d0a,2022-11-18,479.45,Home & Garden,Bank Transfer,False,479.45,Numeric
 309a0ae4-8bd2-4440-935a-44f504c66431,5cb46da7-d495-45ba-8a58-23944fca1c31,2024-04-11,,Clothing,Credit Card,False,Free,Non-numeric: review
 2dd596db-f44d-46ae-a582-a42a658d7d62,1ef0e194-d8aa-42a6-bc61-f178a4a85a22,2022-07-31,516.26,Health & Beauty,Credit Card,False,516.26,Numeric
-3ea377e6-1156-457e-8b4e-71fa6663e6bf,c751a808-ed8d-44d0-8c52-8253ad564c9a,2023-09-22,766.97,Health & Beauty,Credit Card,True,766.97,Numeric
 37a8ee69-e419-4e15-a2dd-215b57b3ba67,09609fd4-df99-47a6-b234-6f17687b4b13,2023-01-04,829.12,Automotive,Bank Transfer,False,829.12,Numeric
 1e149041-13ca-4147-890c-3dee10c249e8,ef245823-b7e0-41c4-a5a5-f812d792117e,2023-12-19,192.86,Clothing,Debit Card,False,192.86,Numeric
 577fcc56-95dc-443a-9289-d12614f5cea3,99e7b5e2-c769-4c2e-9b73-018642710ac5,2022-07-21,53.13,Health & Beauty,Bank Transfer,False,53.13,Numeric
@@ -2689,7 +2675,6 @@ e227d514-7382-422e-adf1-fbf694f7c0d5,09c1ae1e-43c5-40dd-adc6-8725f5079d7e,2023-1
 6fa635e0-d171-4413-a101-1b41e4831ce4,10099c20-2222-4bc9-ba65-601c255a01da,2022-12-08,,Home & Garden,PayPal,False,,Missing
 5e060e3f-1255-47e2-8a4c-22dc4a414c8c,41668b27-2dab-4694-8be3-77242d04bc28,2022-07-31,398.71,Health & Beauty,Debit Card,False,398.71,Numeric
 b0e547f6-b969-4908-b977-c64793686f9e,d7133f34-6638-44ed-9291-053bfe24aac7,2023-06-07,926.02,Electronics,Debit Card,False,926.02,Numeric
-1ffded5f-b38d-45b7-943d-4100779c3599,6c2c5c2b-7601-41dc-9f56-4009de6f3cea,2024-10-06,591.61,Clothing,Debit Card,True,591.61,Numeric
 b0e547f6-b969-4908-b977-c64793686f9e,d4f1d0de-8fae-43fe-abbf-c0b79f2db950,2022-12-07,798.7,Home & Garden,Credit Card,False,798.7,Numeric
 32ae4542-77b0-4a2c-90c9-63b08e717945,32b12015-6d84-47f3-8111-89aa17ed6941,2024-02-15,941.88,Home & Garden,Credit Card,False,941.88,Numeric
 5788b07d-0919-49cc-a65f-46cf3167e24b,b949677c-5c71-4a9a-8348-2dee8e42626d,2024-06-26,220.7,Automotive,Credit Card,False,220.7,Numeric
@@ -2999,18 +2984,3 @@ b0e547f6-b969-4908-b977-c64793686f9e,005f3482-754d-42fa-b715-bdf59db76a22,2024-0
 e7c7f991-9b89-485f-b2e1-216ac5c661a0,5e0e3958-fcf9-40ed-9a90-0f0920c244aa,2022-12-18,993.24,Health & Beauty,Bank Transfer,False,993.24,Numeric
 a94e3f55-2f0e-432e-8706-9815c4371376,b4a98e4d-c0ab-4282-99a9-3d909befd473,2023-04-06,309.7,Automotive,PayPal,False,309.7,Numeric
 6c0b47c9-e467-433d-a0f1-9a6fe8adcd38,8c2bbc45-1053-42de-9310-b8343d696e6c,2024-04-10,206.5,Health & Beauty,PayPal,False,206.5,Numeric
-778da54b-8f96-4609-a21b-bba3d7f071ea,022cfd97-a8e8-4e50-8700-2720d52bfd75,2022-08-23,,Health & Beauty,PayPal,True,Free,Non-numeric: review
-24b043e8-6fca-4d86-95a8-837e0ca09072,dc9453eb-3922-4a5f-91c0-ccb226ca91f7,2023-06-01,-100.0,Health & Beauty,Debit Card,True,-100,Negative: review
-b94b3531-591d-445c-b282-dcacb0baca5b,27fb25aa-f148-423f-967c-4d1764e26b29,2024-04-18,-100.0,Automotive,Credit Card,True,-100,Negative: review
-1ffded5f-b38d-45b7-943d-4100779c3599,6c2c5c2b-7601-41dc-9f56-4009de6f3cea,2023-05-10,591.61,Clothing,Debit Card,True,591.61,Numeric
-a9af986b-d677-421a-81df-3d289ce9e38f,5f93f1dc-0363-4e69-979b-f5d58fd42658,2023-09-30,-100.0,Unknown,Bank Transfer,True,-100,Negative: review
-e7cf6999-b4ec-4ce4-bb09-bfd18d61d933,2e0b66a9-af5d-4cf9-bb60-55ab2932edee,2023-05-10,-100.0,Electronics,Bank Transfer,True,-100,Negative: review
-321acf6c-c401-4f7b-9835-bfb7cd5e48ff,62186b07-9cda-44c5-bf76-bdb0f97aaf39,2023-02-04,,Home & Garden,Bank Transfer,True,,Missing
-4aab54a1-b555-48ec-9b0f-0e87abdcc45b,7202af3a-448f-4970-9674-40f736cfdfde,2024-03-27,634.41,Unknown,PayPal,True,634.41,Numeric
-f05ec030-ac96-417d-a73c-e3ca3adc1a30,f39c8b1d-595a-4656-8108-25981bf3fa14,2024-03-05,252.7,Electronics,Debit Card,True,252.7,Numeric
-8de3d5b9-1f1a-4bd7-b242-6cb09d7f3609,5fca256b-cd5a-48fa-8b07-37f39adde8c9,2023-05-17,-100.0,Clothing,Bank Transfer,True,-100,Negative: review
-086370e7-8884-47d7-89b0-776401a43e1c,652636b6-5c72-44e1-aefb-6adce412ee75,2023-12-05,974.25,Electronics,Debit Card,True,974.25,Numeric
-7c7df909-aa25-48c7-af9d-6ebe714b28b6,eb26a4f4-5af2-4e25-b1f2-fd0de5583f7b,2022-10-08,50.07,Automotive,Bank Transfer,True,50.07,Numeric
-79fc606a-c02c-4c39-b065-3e88a59b366c,7fbe5cc4-a35e-4e8e-89d7-7b439659b9f6,2022-07-20,272.68,Clothing,Debit Card,True,272.68,Numeric
-6a84f1a7-f636-4300-bd8d-c7f888460829,185ee140-348a-4461-bd40-07a7e8535815,2023-10-09,0.0,Health & Beauty,PayPal,True,0,Zero: retained
-3ea377e6-1156-457e-8b4e-71fa6663e6bf,c751a808-ed8d-44d0-8c52-8253ad564c9a,2023-09-22,-100.0,Health & Beauty,Credit Card,True,-100,Negative: review

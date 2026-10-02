@@ -159,7 +159,6 @@ b0afe1c8-686c-4dc8-9668-3b3c33dd364c,45.0,Female,Fernandomouth,Medium,2022-06-18
 b4174b85-6f71-4a2d-8fac-093d30d7f35f,45.0,Male,Port Jefferyfort,High,2023-03-03,False,,Missing,,True
 ae075979-b98f-46bf-bd3b-cc75f7216c3c,57.0,Female,New Joel,Low,2024-01-14,False,57,Observed,57,False
 1c4c3ec8-256e-4c2c-bed6-cf5e97e076de,45.0,Male,New Amber,Low,2023-04-10,False,,Missing,,True
-bbf7c36f-3745-4d3a-9e33-f927c2755f65,45.0,Female,Roberttown,Medium,2019-07-07,True,45,Observed,45,False
 2353e631-3267-4287-aae4-4e05b71a0bb1,28.0,Female,Benjaminborough,Low,2019-07-26,False,28,Observed,28,False
 18963973-89cc-4431-accb-330847c9d548,51.0,Female,Port Maryland,Medium,2021-11-02,False,51,Observed,51,False
 eb404291-dab0-4733-b0e2-00676e7678a1,64.0,Male,Wilsonton,Medium,2023-06-07,False,64,Observed,64,False
@@ -173,7 +172,6 @@ f9ab3c05-425f-4739-8e23-5197e518e250,33.0,Female,Andrewville,Medium,2023-02-18,F
 4ed0e404-e360-4f0b-ba81-b14ac4be70de,45.0,Female,Allentown,High,2019-10-30,False,,Missing,,True
 1cb3b94e-a27e-43d4-9438-f6a889623d0f,55.0,Female,North Mikefurt,Medium,2023-09-19,False,55,Observed,55,False
 f102f93b-f32c-41d3-adcc-25e02a67c34f,49.0,Female,Meganstad,High,2020-01-26,False,49,Observed,49,False
-6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,65.0,Male,Lake Karen,Low,2023-04-04,True,65,Observed,65,False
 576d68cf-0bd0-40a8-8710-eee2c706f81e,42.0,Female,West Cynthiamouth,High,2020-06-30,False,42,Observed,42,False
 e4f5c19b-60e0-4e10-9735-88d05adf0667,67.0,Male,Melissaborough,Low,2023-06-16,False,67,Observed,67,False
 87a3e2eb-e4e0-42fb-8efe-b2076bc86ad7,30.0,Male,Kingberg,Medium,2023-09-04,False,30,Observed,30,False
@@ -224,7 +222,6 @@ f7457808-4b20-4939-b451-5ebf933c98c0,49.0,Female,Hurleyfort,High,2021-06-14,Fals
 6e24cce5-9d67-4e1e-8816-0b7f767f1362,36.0,Female,New Crystalberg,High,2019-07-31,False,36,Observed,36,False
 992bfbf0-9fcc-4fad-9efc-767f55dd26ae,26.0,Male,North James,Low,2022-01-14,False,26,Observed,26,False
 037ea182-19f8-4f85-a87f-e9775b11d3d2,45.0,Female,Lake Jessicafort,Low,2019-10-02,False,,Missing,,True
-b72f2a59-aab0-447d-bb31-9bdc1405cc72,34.0,Female,West Jason,High,2024-10-06,True,34,Observed,34,False
 e21ba358-f629-4922-8cbe-0cf613e036e2,54.0,Male,Lake Kariville,Medium,2022-03-21,False,54,Observed,54,False
 91ad2b3a-d2fe-4146-a0ae-cdcea44622c9,43.0,Female,West Jennifershire,Medium,2019-07-25,False,43,Observed,43,False
 cb8f9257-d8ad-4751-998d-40e56cfe17e4,41.0,Female,New Shannon,High,2022-07-28,False,41,Observed,41,False
@@ -303,7 +300,6 @@ f6cc6186-5ab4-4a50-9513-a5f1104bd599,49.0,Female,Riverahaven,High,2021-02-17,Fal
 70b70bf3-205e-4992-a88c-02bf2ed1471f,21.0,Female,Bradleyborough,Medium,2020-06-05,False,21,Observed,21,False
 f0ca9fb6-ad3f-4cbd-a3ce-aed1b70c5542,28.0,Male,Deborahtown,Medium,2021-05-25,False,28,Observed,28,False
 9d3466b1-8bcf-430e-a4f9-6a0bad8d296d,45.0,Male,Boyerfurt,Unknown,2020-09-07,False,,Missing,,True
-1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,2022-07-28,True,44,Observed,44,False
 f3860788-84c6-42c7-8431-02cefd4dfb93,37.0,Female,New Robin,Low,2020-02-16,False,37,Observed,37,False
 91214d6a-4b1f-4500-a478-415aa3f0742d,36.0,Male,Jasonborough,Medium,2020-11-15,False,36,Observed,36,False
 41d08007-2bf4-470f-ad2d-97a972abced6,52.0,Female,South Melissa,High,2021-02-23,False,52,Observed,52,False
@@ -337,7 +333,6 @@ d98a5116-3836-43d6-bb54-ffef96f9fd00,42.0,Male,New Alex,Low,2023-05-29,False,42,
 f4b595a5-26a8-4c67-b12c-4f722194fe27,63.0,Male,Robinsonview,Unknown,2024-05-21,False,63,Observed,63,False
 482528d8-d038-4d7d-a27d-dac5effcd9e0,26.0,Female,West Julieburgh,Low,2024-05-12,False,26,Observed,26,False
 486368bc-7b67-4f28-91a2-bd5c85b1f8f6,55.0,Female,East Michelle,Low,2020-08-27,False,55,Observed,55,False
-48313b18-ccdb-4946-b958-1ebfc92dcc2a,45.0,Male,South Andrea,High,2020-02-26,True,Unknown,Non-numeric,,True
 22b21e10-1132-449f-a2b9-61ebf725f800,55.0,Male,Christopherland,Medium,2023-12-23,False,55,Observed,55,False
 97ef797e-2a0b-48d8-8e49-5d90cab7274a,70.0,Female,North Stephen,Low,2019-08-17,False,70,Observed,70,False
 a14c5d2f-87d8-4caf-b91e-ab6865872c37,44.0,Male,West Brandon,Low,2021-03-21,False,44,Observed,44,False
@@ -538,7 +533,6 @@ b0e547f6-b969-4908-b977-c64793686f9e,59.0,Male,West Donaldmouth,Low,2020-04-16,F
 bd8ab2a4-b629-48e1-be7c-79608d4cce8b,41.0,Female,Anthonyhaven,High,2023-02-10,False,41,Observed,41,False
 8245ed49-a244-4e10-b9ed-aa53764c959d,68.0,Female,East Susanfort,Unknown,2023-07-01,False,68,Observed,68,False
 6a84f1a7-f636-4300-bd8d-c7f888460829,21.0,Female,East Marcushaven,Medium,2023-06-19,False,21,Observed,21,False
-50465bde-6a9a-466d-804a-a8f046809a23,45.0,Male,Harrismouth,High,2023-08-02,True,-1,Outside screening rule,,True
 f6cab49a-a8b5-42a8-92be-42e200212268,28.0,Female,New Stanley,High,2024-02-12,False,28,Observed,28,False
 cbd36938-08b9-41e6-9de5-a781a121d9fa,28.0,Male,North Jimmy,Unknown,2020-09-10,False,28,Observed,28,False
 61241d0d-b46b-4521-ac03-df44f73a7497,48.0,Female,Lake Lindsay,Low,2024-05-01,False,48,Observed,48,False
@@ -753,7 +747,6 @@ f1f5c413-2160-4dac-97e1-be254637d804,45.0,Female,Joshuahaven,High,2021-07-24,Fal
 fced017c-7d89-41ce-b445-7b9c42ddd57a,45.0,Male,Michaelhaven,High,2020-11-29,False,,Missing,,True
 8ad8003f-aa9d-4b7b-84f5-1913e2660e5d,47.0,Female,Scottville,Low,2020-09-15,False,47,Observed,47,False
 b66935bc-453f-4947-86e6-92d2e1d52872,49.0,Female,Whiteburgh,Low,2021-04-26,False,49,Observed,49,False
-29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,2021-09-01,True,68,Observed,68,False
 9bd04ab1-225d-48d3-a9f9-f2338a40a439,42.0,Male,Jillianburgh,Low,2020-12-10,False,42,Observed,42,False
 fe9cb5ea-d704-403b-9efa-46d2e2c6b5ae,68.0,Male,Harrisonshire,Low,2019-12-21,False,68,Observed,68,False
 69392978-5c7e-4872-9058-2a4590c9247d,42.0,Female,Lake Lisa,High,2022-08-27,False,42,Observed,42,False
@@ -910,7 +903,6 @@ a92b56a1-de04-4528-a83e-93a0e59aea4d,46.0,Male,Vazquezstad,Low,2020-03-09,False,
 5000dc5d-f0c7-456c-9603-e73c6835b085,55.0,Male,Washingtonmouth,High,2022-02-25,False,55,Observed,55,False
 4dc5da78-1e88-45ee-ba6e-c9cade3a0df2,24.0,Female,Woodshire,Medium,2021-01-06,False,24,Observed,24,False
 d45f2c3e-51ee-4f18-b761-b61a73fb8306,62.0,Male,New Chad,Unknown,2023-01-21,False,62,Observed,62,False
-835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,2019-01-07,True,60,Observed,60,False
 b46b45f2-bb07-435e-b5a8-0626db6f7a07,41.0,Female,Lake Darylton,High,2021-02-07,False,41,Observed,41,False
 409c8d3d-63e6-4280-a699-91933c1eee73,63.0,Female,Jaredberg,High,2023-04-08,False,63,Observed,63,False
 ee802844-8070-4699-b60d-3568a7d306b6,66.0,Male,Wayneside,High,2022-06-14,False,66,Observed,66,False
@@ -998,7 +990,6 @@ fa0dc784-a706-4a5f-b6de-f40b3b592312,27.0,Female,Port Rodney,High,2020-05-13,Fal
 2c8cfc56-f3f5-4fcc-b351-beca319d89d0,20.0,Male,North April,High,2021-03-09,False,20,Observed,20,False
 5885fad6-6e49-4fe4-8f82-63e3ad6d98bd,57.0,Female,Lauraberg,Medium,2023-10-29,False,57,Observed,57,False
 c5440e19-6474-40f0-9306-f4d590035241,69.0,Female,Lake Brandon,Unknown,2022-08-14,False,69,Observed,69,False
-890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,2022-09-04,True,33,Observed,33,False
 570259d3-ecc5-4bc2-8154-51134d7944c7,70.0,Female,New Amandaport,High,2022-02-12,False,70,Observed,70,False
 85d20157-cb0f-439a-85af-7172437a91a0,64.0,Female,North Peterton,Low,2020-06-04,False,64,Observed,64,False
 1bc7f7da-3a8f-4df1-a411-c7c1d9a794fe,45.0,Female,West Erica,Medium,2020-12-10,False,,Missing,,True
@@ -1135,7 +1126,6 @@ dd68aaa6-d50a-4b2f-be13-0331ceae7708,53.0,Male,Pamfort,High,2022-11-03,False,53,
 ae828d06-d474-4ec3-9327-0662508c9e6e,28.0,Male,Petersonfurt,High,2021-03-27,False,28,Observed,28,False
 1a103b87-f903-40de-8615-fdb7a50db074,43.0,Female,Charlesbury,High,2021-02-07,False,43,Observed,43,False
 eee4c0b3-21d6-47ae-8631-718341d97a86,45.0,Female,Patrickhaven,Unknown,2023-01-24,False,,Missing,,True
-ce5cf079-859b-43fa-9609-c6bb7e12c6b7,45.0,Female,Adrianhaven,Low,2024-01-10,True,-1,Outside screening rule,,True
 be4e184b-21d4-40f3-926b-bb3d6504942d,56.0,Male,East Albertberg,High,2023-06-28,False,56,Observed,56,False
 63a65dd1-0453-4bbf-b80d-70eada1d7075,45.0,Male,North Rhonda,Medium,2023-09-20,False,-1,Outside screening rule,,True
 03fadc2e-1b9c-4386-aaa9-315f10e504ce,20.0,Male,Port Anthonyfort,Unknown,2022-04-23,False,20,Observed,20,False
@@ -1237,7 +1227,6 @@ b65379c5-ac8c-41b6-a93e-62a46b50d0ac,41.0,Female,Tylerbury,Medium,2021-01-21,Fal
 b72fc0cf-1406-424c-9c71-2b7e22e3f6aa,45.0,Male,Erikville,Low,2022-03-06,False,,Missing,,True
 ca1e90f6-0e5f-492e-ab92-252ff540da18,62.0,Female,New Nicholestad,High,2024-02-10,False,62,Observed,62,False
 fc54824c-9239-4973-8681-fb29caef748e,40.0,Male,Mccallport,Medium,2021-11-24,False,40,Observed,40,False
-3814b8e4-cade-4665-86af-dda3e3628f17,32.0,Female,Port Bonnieshire,Medium,2021-06-25,True,32,Observed,32,False
 0cb9ffd9-da09-4b10-8e1d-60d84889933b,69.0,Female,West Andrea,High,2023-06-02,False,69,Observed,69,False
 2595b6ef-fefb-4725-821d-bf18ef364499,34.0,Male,Rushchester,Medium,2020-10-02,False,34,Observed,34,False
 10a9acc4-a2d1-4211-8e61-07fdd9a9a689,52.0,Male,New Richard,High,2022-12-14,False,52,Observed,52,False
@@ -1354,7 +1343,6 @@ c16f42a8-3339-49f4-9aea-c1dda8b0701e,70.0,Male,New Ryan,Medium,2021-08-04,False,
 b3091754-e6f1-4352-adb9-1f4651c04d2b,38.0,Male,Smithside,Unknown,2019-11-11,False,38,Observed,38,False
 2c6e2999-a381-4ad9-9731-e53a746da9f8,67.0,Male,Port Matthewbury,High,2022-03-16,False,67,Observed,67,False
 9d70cc2a-2179-4955-9ab5-f6a8e99b377a,47.0,Male,South Brenda,Low,2019-10-21,False,47,Observed,47,False
-76c1d696-0f1c-44b5-b749-8859545658eb,45.0,Female,South Frankside,High,2020-05-14,True,Unknown,Non-numeric,,True
 ecca2cc8-1a5e-4fa5-b414-f9d6583e106d,40.0,Female,Johnsonshire,Medium,2022-01-05,False,40,Observed,40,False
 42da3b26-e9c9-4676-938d-4486bfc38ab6,19.0,Male,Wilsonside,High,2022-03-26,False,19,Observed,19,False
 f8e05878-b789-4982-8680-2122ce530848,69.0,Female,Johnsonberg,Low,2021-04-06,False,69,Observed,69,False
@@ -1382,7 +1370,6 @@ c6789ac7-81c7-469a-a613-fe1fe1487953,25.0,Female,South Samanthaburgh,Medium,2022
 35434af3-775f-4360-82fb-972481aefd54,28.0,Female,Davidland,Low,2020-07-31,False,28,Observed,28,False
 d0b313e1-147e-424c-a3a2-586f6384c516,53.0,Female,West Jefferyborough,Low,2020-07-21,False,53,Observed,53,False
 91b64546-d5de-4665-834c-4dd0de6f8026,22.0,Male,Courtneychester,High,2023-04-07,False,22,Observed,22,False
-bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,2019-06-08,True,52,Observed,52,False
 d2b307f5-9903-47d3-815f-79ab5283a49c,63.0,Female,Jeffmouth,High,2021-11-09,False,63,Observed,63,False
 00115fc0-f155-42cd-ba68-58aab67b3360,36.0,Male,Nelsonstad,Low,2022-02-16,False,36,Observed,36,False
 0f0df24b-7464-4f5c-a7fc-ebfd112b4b5b,19.0,Male,Georgeside,Low,2020-10-30,False,19,Observed,19,False
@@ -1535,13 +1522,11 @@ e5a303ab-3074-4c9a-b49c-8ac71ae1c9c2,61.0,Female,Port Christybury,High,2021-05-1
 179561e2-7591-49ee-aa55-8b745c61b857,31.0,Female,Schwartzmouth,High,2021-04-19,False,31,Observed,31,False
 16d7e26d-592b-4fad-8c66-c412bb2b2954,23.0,Male,New Jill,High,2021-02-07,False,23,Observed,23,False
 d4d23018-9ee4-4ab4-b9e7-f13ae2e3e1c7,36.0,Male,Mendozachester,Medium,2020-01-04,False,36,Observed,36,False
-08995799-8d0f-40d6-986b-452074709b5f,61.0,Male,New Lukeville,Medium,2019-11-15,True,61,Observed,61,False
 3fa982d9-11f7-4c91-93e3-036b0f6adfe8,45.0,Male,New Jason,High,2021-07-05,False,,Missing,,True
 00a7d9d9-e4f6-4564-8291-a2916b0248b1,45.0,Female,Carsonville,Low,2021-08-09,False,45,Observed,45,False
 29d21a4d-17ed-49ac-a141-71619723bb4f,45.0,Female,Baileybury,High,2022-06-21,False,45,Observed,45,False
 9e48e3cd-839b-46a1-ae48-b47c006073da,52.0,Male,East Kaylafurt,High,2023-01-25,False,52,Observed,52,False
 9288f074-f683-4862-9aac-a4da59771309,45.0,Female,East Ashley,Medium,2023-10-21,False,,Missing,,True
-bbe76a26-234f-4a70-b71f-fa9b183f6353,57.0,Male,Gregoryfurt,High,2020-06-23,True,57,Observed,57,False
 0d5f73b8-7cc5-41ac-87c0-6df5c741ff8f,47.0,Male,Kimberlyland,High,2021-12-23,False,47,Observed,47,False
 e1f9dff8-fef5-49c4-b14b-c31bc3d61cc6,45.0,Male,Christopherbury,Medium,2024-04-20,False,Unknown,Non-numeric,,True
 805a0997-8b18-4366-b129-93ff2a9c75f0,70.0,Female,South Aprilton,High,2021-04-24,False,70,Observed,70,False
@@ -1580,7 +1565,6 @@ c16c97df-0273-4668-ad2e-d38a384fa374,45.0,Female,Port Emilyview,High,2020-12-28,
 3e3228a0-0d67-4e2a-aa10-7e68395e7fab,18.0,Male,Port Eric,Medium,2020-11-27,False,18,Observed,18,False
 ac6386cf-3044-4ec4-bc57-793052872002,20.0,Male,Port Jessicahaven,High,2021-11-11,False,20,Observed,20,False
 36ad6220-666d-4a38-8fe6-96956bf3b36e,49.0,Female,Jonathanhaven,Unknown,2021-09-10,False,49,Observed,49,False
-7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,2021-07-01,True,55,Observed,55,False
 9db13977-dbc4-4752-9d9a-7489edd3e7a8,26.0,Female,Grahambury,High,2023-04-04,False,26,Observed,26,False
 c39b1fb1-7f69-4631-9279-b8051420c444,57.0,Male,West Christopher,Low,2021-06-14,False,57,Observed,57,False
 6284e271-1c7f-4be5-b801-a3a80e08f4b2,49.0,Female,Jonathanchester,Medium,2021-12-20,False,49,Observed,49,False
@@ -1683,7 +1667,6 @@ eeb74206-f6c8-4ebf-afa7-69d5bafd37fe,24.0,Male,Gomezstad,High,2020-01-20,False,2
 37b7b371-41ce-4cef-aa47-aab2e17d12dc,42.0,Male,Lake Rachelside,Medium,2019-11-27,False,42,Observed,42,False
 cf0aabaf-a877-44a6-b3f7-92f1f6353e6e,32.0,Male,West Justin,High,2023-07-16,False,32,Observed,32,False
 777070f2-0233-43eb-b65a-6c7c95ec1abd,48.0,Male,Saraton,Unknown,2020-07-21,False,48,Observed,48,False
-89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55.0,Female,New Michael,Low,2022-03-03,True,55,Observed,55,False
 913dfe6e-4ed1-4a0a-a655-6e2be550593b,37.0,Female,Harveybury,Unknown,2023-04-11,False,37,Observed,37,False
 89ae8d7c-cbcd-4117-8a06-d7ddc5fa9132,45.0,Female,Port Joseph,Low,2020-02-12,False,45,Observed,45,False
 2172c7bf-0780-46ea-b512-112eff96c8c9,25.0,Female,Moniquefort,High,2021-07-25,False,25,Observed,25,False
@@ -1767,7 +1750,6 @@ fdb81781-8071-4364-b074-dacc53de5284,26.0,Female,Olsonton,Low,2020-06-25,False,2
 a2bc414d-db64-43a9-8456-e0979baddc33,62.0,Male,Cunninghamfurt,Medium,2023-06-26,False,62,Observed,62,False
 e8236c55-bd04-44e1-a12c-e3b4bb747ec3,45.0,Male,Lake Ryanstad,High,2022-03-12,False,Unknown,Non-numeric,,True
 9b8179f4-f187-4cfd-b12a-0c182539f178,68.0,Female,Katrinahaven,Medium,2022-10-26,False,68,Observed,68,False
-5050eefe-2392-4d18-b4b6-913d42b9f62b,45.0,Female,Alexanderstad,High,2021-02-20,True,-1,Outside screening rule,,True
 88d5c11e-3341-4712-837d-eb2a1c7c74fe,23.0,Male,Williamsland,Medium,2021-12-26,False,23,Observed,23,False
 2cbc0072-ad52-44e8-a333-ffdeb8f376e1,45.0,Female,Lisabury,Unknown,2023-07-08,False,,Missing,,True
 6cc1eaef-8496-4485-af7a-9812ccdac060,65.0,Male,East Danielview,Low,2023-02-25,False,65,Observed,65,False
@@ -2081,7 +2063,6 @@ cbfff6f3-c193-4b56-a6ff-92bc84ad3789,46.0,Male,South Mike,High,2019-10-08,False,
 c71e53bd-d52e-43c7-853a-bde70ff3cf38,55.0,Female,Port Austin,High,2021-04-26,False,55,Observed,55,False
 710f0b73-da83-47ed-80a1-4a46a836eb67,57.0,Male,Port Mistyport,Low,2024-03-26,False,57,Observed,57,False
 15733149-4d66-49e1-8622-c25c99923852,64.0,Male,Ramseyhaven,Medium,2024-01-14,False,64,Observed,64,False
-83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,2022-02-23,True,31,Observed,31,False
 01264132-b542-471e-ba65-038975091843,56.0,Male,South Rebecca,Medium,2023-10-30,False,56,Observed,56,False
 01bbd379-afb0-4ff4-8197-9dad2ef2fa94,58.0,Female,South Cathy,High,2022-05-14,False,58,Observed,58,False
 32948729-ea9c-4a4b-95b5-e1e840f8dfe6,58.0,Female,West Christopherborough,Low,2021-12-16,False,58,Observed,58,False
@@ -2105,7 +2086,6 @@ a0d6d267-5374-437e-9d14-2f781c3170c2,53.0,Male,South Carmenchester,Medium,2020-0
 3d921b43-7411-4048-a294-c1f40ff81a30,21.0,Female,Melindastad,High,2023-01-31,False,21,Observed,21,False
 ccbaf8a3-c12b-46ad-a994-dfbe60858b24,51.0,Male,Lake Jonathanport,Medium,2020-09-03,False,51,Observed,51,False
 ccf4d58b-5087-45c8-a8f8-bb99be9a13d1,62.0,Male,Andrewstad,Low,2024-03-10,False,62,Observed,62,False
-2cd16dfc-d7b0-47ec-9999-b018daea7f8d,45.0,Female,Lake Carloshaven,Medium,2024-05-02,True,Unknown,Non-numeric,,True
 6506a08f-8725-46af-8aaa-1b3c5c913d84,30.0,Female,Cunninghamstad,Medium,2022-12-27,False,30,Observed,30,False
 21098ed8-fac6-4727-8f0c-953365b6c837,30.0,Female,Petertown,Medium,2020-03-09,False,30,Observed,30,False
 ca16b93d-2b74-4c49-b86d-0907438e3c2f,22.0,Female,East Terri,Unknown,2022-09-30,False,22,Observed,22,False
@@ -2338,7 +2318,6 @@ f2f29694-e761-4b3d-a260-89c19d8ed831,31.0,Male,Lorimouth,High,2024-03-25,False,3
 498daaca-dd10-4fa0-8dd7-357f8543590c,32.0,Male,Port Taraborough,High,2022-12-12,False,32,Observed,32,False
 059e4737-de23-4d2f-a6ca-0b178977ca2e,54.0,Female,Port Jamesburgh,Low,2021-06-21,False,54,Observed,54,False
 fe652a6b-df5d-4a14-99e1-3d1bc3d4aba9,45.0,Male,North Angela,High,2023-09-01,False,,Missing,,True
-7544489f-ec7e-48af-bec6-b6eab94a6e5c,64.0,Male,South Jared,High,2024-03-02,True,64,Observed,64,False
 1b67cc0b-6aec-4daa-bccc-a5961df1d6e2,65.0,Male,Mooreport,Medium,2021-06-18,False,65,Observed,65,False
 c6747843-6a62-45f4-9cc6-c9cd85a67a81,52.0,Female,Jamesview,Unknown,2022-01-07,False,52,Observed,52,False
 39333cba-4f7a-4527-8b1d-5a22e4107a22,59.0,Female,Stevensville,Unknown,2022-02-27,False,59,Observed,59,False
@@ -2550,7 +2529,6 @@ e7d0e7f4-7335-4b2d-9741-1d6113ec6234,45.0,Male,Port Samuel,Medium,2021-12-31,Fal
 cc90dc03-ab3f-4c79-b0f4-17bec02f7058,29.0,Male,Goldentown,Low,2023-09-28,False,29,Observed,29,False
 f364d099-7a13-4f0c-a2f4-8ed1078e22ae,52.0,Female,East Sherryberg,Medium,2020-01-12,False,52,Observed,52,False
 9b24f754-cb7e-4601-a95e-a216796c6b82,67.0,Female,South Amanda,Low,2020-11-09,False,67,Observed,67,False
-c2351d11-59fe-4630-a6df-e01bc343de33,68.0,Female,East Pamela,Unknown,2022-06-15,True,68,Observed,68,False
 40d70488-aa98-4c83-8e41-b30adb59c2a4,34.0,Female,New Robert,Medium,2023-08-07,False,34,Observed,34,False
 85d41d72-28c3-481d-91e9-4feb42eda376,43.0,Male,Huntland,Low,2021-05-31,False,43,Observed,43,False
 8d1ea7d9-d58f-436c-b802-2ef8423b5eb1,55.0,Male,Cruztown,Medium,2023-09-06,False,55,Observed,55,False
@@ -2772,7 +2750,6 @@ ad2198ca-37db-43c7-9ea7-9c479f2145ee,33.0,Male,Michelleshire,Unknown,2021-09-30,
 8e5f5e2c-5799-45f4-b5f9-c14dbb9e2db3,45.0,Male,Andersonton,Low,2022-09-15,False,45,Observed,45,False
 c9f5c06f-3503-465f-a5ce-bf93bc975cb0,59.0,Female,Justinton,Low,2021-03-11,False,59,Observed,59,False
 18882dff-81af-47c8-8bc4-a0f21e17e7ed,22.0,Female,Lake Erika,High,2023-01-22,False,22,Observed,22,False
-9612ee49-09dd-4f55-9524-9eb341efa2b9,45.0,Male,North Breanna,High,2020-07-30,True,Unknown,Non-numeric,,True
 7d85d3ca-acc9-48bd-aff3-58f3626bdc08,49.0,Female,Michealside,Medium,2020-01-07,False,49,Observed,49,False
 c2db166f-c1ac-4c34-a6aa-0c22721171e2,45.0,Female,New Allisonborough,Unknown,2021-11-11,False,Unknown,Non-numeric,,True
 408992a1-f21a-4ebd-a9b2-5e256ef8bf13,57.0,Female,Richardside,High,2021-07-26,False,57,Observed,57,False
@@ -2999,26 +2976,3 @@ c98edfc3-4819-4b2b-9af8-281ada990517,34.0,Male,Francesstad,Low,2020-07-26,False,
 1f0f2c2d-eb0a-4ffb-a21a-684f892bd7fd,59.0,Female,Vegafort,High,2022-04-28,False,59,Observed,59,False
 9eead230-c70b-473b-a234-7002688b42b6,64.0,Male,North Brian,High,2019-12-28,False,64,Observed,64,False
 db9c2206-4487-47e9-8fb0-0ddc81b7310c,45.0,Male,Stacyshire,Medium,2019-12-25,False,,Missing,,True
-3814b8e4-cade-4665-86af-dda3e3628f17,45.0,Female,Port Bonnieshire,Medium,2021-06-25,True,150,Outside screening rule,,True
-08995799-8d0f-40d6-986b-452074709b5f,61.0,Male,New Lukeville,Medium,2020-03-28,True,61,Observed,61,False
-50465bde-6a9a-466d-804a-a8f046809a23,35.0,Male,Harrismouth,High,2023-08-02,True,35,Observed,35,False
-9612ee49-09dd-4f55-9524-9eb341efa2b9,28.0,Male,North Breanna,High,2020-07-30,True,28,Observed,28,False
-2cd16dfc-d7b0-47ec-9999-b018daea7f8d,52.0,Female,Lake Carloshaven,Medium,2024-05-02,True,52,Observed,52,False
-83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,2024-04-15,True,31,Observed,31,False
-bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,2020-11-06,True,52,Observed,52,False
-c2351d11-59fe-4630-a6df-e01bc343de33,68.0,Female,East Pamela,Unknown,2022-02-04,True,68,Observed,68,False
-29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,2020-12-03,True,68,Observed,68,False
-1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,2019-07-11,True,44,Observed,44,False
-835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,2023-09-30,True,60,Observed,60,False
-89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55.0,Female,New Michael,Low,2024-01-18,True,55,Observed,55,False
-6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,45.0,Male,Lake Karen,Low,2023-04-04,True,-1,Outside screening rule,,True
-7544489f-ec7e-48af-bec6-b6eab94a6e5c,45.0,Male,South Jared,High,2024-03-02,True,150,Outside screening rule,,True
-5050eefe-2392-4d18-b4b6-913d42b9f62b,20.0,Female,Alexanderstad,High,2021-02-20,True,20,Observed,20,False
-890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,2021-05-27,True,33,Observed,33,False
-76c1d696-0f1c-44b5-b749-8859545658eb,34.0,Female,South Frankside,High,2020-05-14,True,34,Observed,34,False
-b72f2a59-aab0-447d-bb31-9bdc1405cc72,34.0,Female,West Jason,High,2021-09-19,True,34,Observed,34,False
-48313b18-ccdb-4946-b958-1ebfc92dcc2a,59.0,Male,South Andrea,High,2020-02-26,True,59,Observed,59,False
-bbe76a26-234f-4a70-b71f-fa9b183f6353,45.0,Male,Gregoryfurt,High,2020-06-23,True,Unknown,Non-numeric,,True
-7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,2022-07-23,True,55,Observed,55,False
-ce5cf079-859b-43fa-9609-c6bb7e12c6b7,41.0,Female,Adrianhaven,Low,2024-01-10,True,41,Observed,41,False
-bbf7c36f-3745-4d3a-9e33-f927c2755f65,45.0,Female,Roberttown,Medium,2023-02-17,True,45,Observed,45,False

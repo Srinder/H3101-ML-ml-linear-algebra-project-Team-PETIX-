@@ -43,7 +43,6 @@ f71e72b6-e451-42da-a1d5-6ef629c553f8,b0aa16ce-a4f5-44eb-bd53-887ab7eea93c,2023-1
 e61caa35-25d3-4132-8e2a-675d36c3d9d3,84952f93-a761-437f-bcbb-5f01032d2ac6,2024-03-14,Facebook,Comment,Positive,False,Facebook,Positive,Positive
 d18cda69-56ba-45a8-b3fe-ff52f040377a,8371e3a6-cbd5-4a07-9a7f-b334d046644e,2023-08-20,Instagram,Share,Unknown,False,Instagram,,Unknown
 eee8a7f8-1a5b-4c9f-947c-8511fa6a771d,28862db4-ae30-405d-8c0b-c3fcf01a4366,2023-10-30,Twitter,Comment,Negative,False,Twitter,Negative,Negative
-5659a8c6-0397-4396-b561-52ec1c8a760b,d7f6806b-f348-431e-9198-07f0685d8d8e,2024-01-28,Facebook,Share,Very Negative,True,Facebook,Very Negative,Negative
 d1994e4a-365b-49fc-8a99-3bd92ff155e4,c63c466f-8945-42bc-9e35-fa52284f5227,2024-04-16,Unknown,Comment,Neutral,False,,Neutral,Neutral
 be43e8db-0b64-425e-b11d-c15f19659bc2,de2ac7e5-2efd-4fd1-b38f-fb29078743ec,2023-09-07,Unknown,Share,Negative,False,,Negative,Negative
 fa5c10b5-c09a-4de9-905a-20f880a5a6d5,af232446-8c20-4bf0-af12-3da5fa60efe5,2023-12-07,Instagram,Like,Neutral,False,Instagram,Neutral,Neutral
@@ -185,7 +184,6 @@ abe35338-baa4-4cd2-8272-e0eb4d05c39c,e28e1ef5-ed17-467c-be0b-b453085674a6,2024-0
 18e0f708-ed9b-4902-ad9d-968209ce021b,00f73a75-2598-4397-8615-a73eb09e719d,2024-04-22,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
 41d08007-2bf4-470f-ad2d-97a972abced6,49e89efa-9c30-4f93-b7ea-4138469ac455,2023-12-23,Facebook,Share,Positive,False,Facebook,Positive,Positive
 e7d0e7f4-7335-4b2d-9741-1d6113ec6234,71630c3f-ca34-4b05-af31-772b31f64649,2024-01-14,Facebook,Comment,Positive,False,Facebook,Positive,Positive
-54c10762-4c2c-4b9a-a602-d0069520ab2b,1c28fcb7-81fc-462c-a0a3-785f00070cd7,2024-03-05,Facebook,Like,Positive,True,Facebook,Positive,Positive
 c2c93273-8204-4385-8dd5-a277dc51989f,5e48a056-c6e1-480b-9afe-4a90ac1f687b,2023-11-02,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
 ef341627-301c-4502-9ebc-a7d1ea8bf37b,ae0978fd-346d-4341-8efc-0fef11fa09f0,2023-08-24,Instagram,Share,Negative,False,Instagram,Negative,Negative
 9c52add6-d6da-42b9-be78-9a5d2d771aec,78fcd0e1-3a25-4c39-94e4-071f13eebedd,2023-08-27,Facebook,Comment,Negative,False,Facebook,Negative,Negative
@@ -373,7 +371,6 @@ f0c55dc8-d7f6-481d-8992-af3ce9453a51,6f0b3d62-2b76-407e-9b24-e63c5a2eeda3,2023-0
 ff6d25c2-baeb-46ab-8ce4-4c39bde83c5a,0810f167-8168-42c4-8cc5-d51e4bc8226a,2023-09-27,Instagram,Comment,Negative,False,Instagram,Negative,Negative
 168032e3-5e2f-4186-9f59-8d35cf641d56,9d061bbe-5443-4e63-8ed1-9a63f6ab085a,2023-12-18,Twitter,Like,Positive,False,Twitter,Positive,Positive
 165308ea-2fc5-43e5-80ae-d135c2aefe70,5e7bd575-cf65-425f-a0c5-caaecd64dd1b,2023-07-15,Instagram,Share,Unknown,False,Instagram,,Unknown
-11b046f0-b091-4bfb-b0f4-df58bfea039a,01f1c8c8-df21-4d75-adbb-feb6d4c84317,2024-04-29,Instagram,Like,Positive,True,Instagram,Positive,Positive
 a3824b0f-b72e-4c29-a242-b79c541895bb,63daebd8-821b-45e7-b115-45c8bd4db96f,2023-11-04,Facebook,Share,Unknown,False,Facebook,,Unknown
 3d8f2b47-49b7-4ece-bcd9-614437744907,49112cac-2344-4d28-a4f7-12fb044c822e,2023-07-19,Instagram,Comment,Negative,False,Instagram,Negative,Negative
 c9158142-8cc1-452d-9c32-5760943ded3d,d1bbd182-825e-47bf-9402-a37110335b7a,2024-05-12,Facebook,Comment,Unknown,False,Facebook,,Unknown
@@ -945,7 +942,6 @@ c3547dd4-61cc-495c-a7a2-b103bbae3835,1a2f57a8-468c-4543-b148-fddff9d454ea,2024-0
 ab125c81-4129-466b-a8a4-f127fa73e694,a0b64af4-bf36-4b66-8a12-9e4fba48eb79,2023-10-02,Instagram,Like,Positive,False,Instagram,Positive,Positive
 df8efbc2-afb8-4036-b764-ec5d26891ca3,50a28c39-f64c-4d0c-be44-0d4ffdc6367e,2024-01-08,Twitter,Comment,Positive,False,Twitter,Positive,Positive
 7cd96f82-4bad-4efd-a6aa-d6098dff001e,5dcedf24-a308-41ad-926f-a8bf5424d7d1,2023-09-13,Twitter,Share,Negative,False,Twitter,Negative,Negative
-a60e0cb6-7b43-44f2-956a-16caae372e9f,37ce93d2-27b5-478f-808c-3095cae7fae1,2023-10-22,Twitter,Comment,Very Negative,True,Twitter,Very Negative,Negative
 b779c476-9543-44ef-b23e-72fd407bb706,439da2b5-83ce-4bb9-9848-697f476e9a35,2023-07-03,Facebook,Comment,Positive,False,Facebook,Positive,Positive
 9f5559c7-88ea-44e2-b7f4-39d44a8eba60,d74a90c2-8ffa-4388-b264-ce05da500c2f,2023-10-21,Facebook,Like,Positive,False,Facebook,Positive,Positive
 b92224a4-fa0d-4e99-ab1a-9f76360a4e33,ddc780d7-d5f9-4e5c-be79-7c33bb726823,2023-11-23,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
@@ -1239,7 +1235,6 @@ ac2455bb-ed17-4eb7-a0b3-befbfbcd1e95,dabd7191-e7d9-4b24-a46c-99517da48171,2024-0
 74e1d393-6652-499c-ac7a-0d25d6c6f845,2f72184a-3750-4f5a-bf76-f079fae0a667,2023-09-20,Twitter,Share,Negative,False,Twitter,Negative,Negative
 a9658c6f-134f-421b-8b2e-fd4978c7a940,cb64f7e7-4158-4284-839f-f7bdcbf1fbd8,2024-04-04,Unknown,Comment,Positive,False,,Positive,Positive
 dd4e5e8e-d439-498e-bea6-54340350e5b8,25badb3f-2eb5-403a-a31e-109a7baec8da,2023-08-03,Twitter,Share,Neutral,False,Twitter,Neutral,Neutral
-a56b8bed-1d7a-4cc2-abeb-d847aac0ff74,98cf7859-e4a9-465b-96fe-ed51a1f1aa92,2024-06-04,Facebook,Like,Positive,True,Facebook,Positive,Positive
 246fb860-b424-475a-9321-514da3bb0da9,76c0b048-efa2-4093-ac6d-8f60e17c533e,2024-01-04,Facebook,Like,Negative,False,Facebook,Negative,Negative
 818e18a9-18f0-4ffc-9cbf-8c447e4bee69,dc037e41-fb68-43a4-afcb-6e3bf47e94ae,2023-11-29,Unknown,Share,Unknown,False,,,Unknown
 0e678ba1-7b5f-46aa-8b5a-6dc1190373be,1922795d-3fee-49ac-b432-b6bbf02326c7,2023-10-14,Facebook,Comment,Unknown,False,Facebook,,Unknown
@@ -1293,7 +1288,6 @@ bfe55c3b-668e-485d-9476-670acd50b12b,09847257-db51-439b-b6c0-ee151c53cdc6,2024-0
 35434af3-775f-4360-82fb-972481aefd54,c09c12f1-7e62-43c8-9432-a9903fc89e60,2024-04-17,Twitter,Share,Positive,False,Twitter,Positive,Positive
 509c0596-50f8-4e68-8204-ddf396e67862,1d491673-6310-4114-b2a8-831c5bddeb95,2024-03-15,Unknown,Like,Positive,False,,Positive,Positive
 17bf453d-4dd4-4055-b398-940a4b52edfa,e2a8aac1-5748-4b79-bb3c-2f821616b8ac,2024-03-03,Unknown,Share,Unknown,False,,,Unknown
-c0c0ce5a-4539-4013-abca-d0a3e41b4e2a,4639a6fd-3d89-4e1d-b783-f226eb92f14f,2023-11-24,Twitter,Comment,Negative,True,Twitter,Negative,Negative
 f5713ff7-0bcc-41c1-a71b-ac9113ac43a9,32c222d1-62d8-4ae2-bb6c-619ebf271ca4,2023-10-13,Instagram,Comment,Neutral,False,Instagram,Neutral,Neutral
 e00ffe05-e989-4f01-8a2e-45d209002140,cee93cbb-3280-485e-819e-d42c254d122f,2024-02-19,Instagram,Like,Negative,False,Instagram,Negative,Negative
 580dd6e4-0598-4d7d-aef6-e6572e857e50,b4143585-517c-48d1-bfbe-bf35a70220c6,2024-03-19,Twitter,Like,Positive,False,Twitter,Positive,Positive
@@ -1486,7 +1480,6 @@ c6890a2f-4535-4b1c-84ac-547f9612813f,7113523c-9bec-4ed1-a896-d2d9f90989a4,2023-1
 a254d583-6888-46d2-aca9-8275d25874b1,13260316-2ce5-4e5e-b37c-2ae58375a6b6,2023-07-18,Unknown,Share,Positive,False,,Positive,Positive
 32ae4542-77b0-4a2c-90c9-63b08e717945,299b8cf3-d74d-4b41-9972-3c398228c846,2024-04-16,Instagram,Share,Negative,False,Instagram,Negative,Negative
 e1dabc47-5b6e-4e64-ae9d-b3e092a066ed,4ddaac16-2b94-4f43-bc9e-a7297572ff34,2024-05-14,Instagram,Like,Neutral,False,Instagram,Neutral,Neutral
-ef10b8a1-1014-4edf-a80e-207b7790e894,1966cdba-7e47-48b6-ae29-dd8fbead8527,2023-07-19,Twitter,Comment,Negative,True,Twitter,Negative,Negative
 30c722ab-be73-43a8-80bb-545ce0e564b3,6d6f9929-d6d0-44b9-9f67-7636da8d041c,2024-01-11,Twitter,Like,Positive,False,Twitter,Positive,Positive
 e21ba358-f629-4922-8cbe-0cf613e036e2,e3bf6da5-e780-4afa-8a1c-483e85863011,2024-06-09,Twitter,Share,Positive,False,Twitter,Positive,Positive
 e7e5e8fe-5fdd-43e6-92e1-5ea3e399486e,aeffec69-1738-4cac-93d5-3f09978867f6,2024-04-29,Unknown,Share,Positive,False,,Positive,Positive
@@ -1634,7 +1627,6 @@ af603c89-aa51-419e-81ec-7dda033219f3,16c990f5-d38e-48ed-8908-fa4f3df712d7,2024-0
 e8a661f3-0982-41a3-b9e0-71e265df25e7,1033c3e6-4e2a-4753-bb6f-662fc2b0b0ef,2023-07-11,Instagram,Like,Negative,False,Instagram,Negative,Negative
 0ab0e741-f4ad-4d82-92c4-b5055b5c5549,2bcdfd69-98c4-4014-bf62-8912fc0fad42,2024-05-17,Unknown,Comment,Neutral,False,,Neutral,Neutral
 3daeb50a-a388-44a7-8aa8-0cde8a0c1947,a9eaf701-3c4e-429c-ac9a-bca2c8a243e1,2024-06-06,Instagram,Like,Positive,False,Instagram,Positive,Positive
-b7b84b81-c61b-4f23-b3db-b18010484122,93d2d3e1-841e-4ece-91c1-3b1998a4cab8,2024-05-14,Twitter,Like,Neutral,True,Twitter,Neutral,Neutral
 c6f3aa4e-9147-4547-b2c9-b1aa7847d304,78f3fec1-8365-41b9-b0b3-531e87c39aee,2024-02-06,Facebook,Like,Positive,False,Facebook,Positive,Positive
 1938b05f-14b1-4bda-bedf-24863003259e,8fede39b-b5f2-4dcf-a71f-907857637cb8,2023-09-25,Facebook,Comment,Negative,False,Facebook,Negative,Negative
 e4f5c19b-60e0-4e10-9735-88d05adf0667,71e1551c-c77b-430e-94bf-4bba156eda6d,2023-09-05,Instagram,Share,Neutral,False,Instagram,Neutral,Neutral
@@ -2134,7 +2126,6 @@ ee802844-8070-4699-b60d-3568a7d306b6,2cd71279-f7cf-486b-a95e-44f33bd62715,2023-0
 2d1c8d1a-be1f-45a9-82d8-036f5e17d809,a28b1857-1ed3-462b-bd4b-b7d1003975ac,2023-12-05,Facebook,Like,Negative,False,Facebook,Negative,Negative
 7ad2f808-14ec-407a-9485-a0a140891701,1b737b2b-31bc-489f-94c1-63562af3097f,2023-09-01,Instagram,Comment,Positive,False,Instagram,Positive,Positive
 91564ff4-c8f8-42b3-97d4-b9e15b97dc69,45a34ae1-d105-4be2-9fc6-e59be81f3ae9,2024-02-09,Facebook,Like,Positive,False,Facebook,Positive,Positive
-a44b6ca5-c73e-4f7a-919c-617931e33a29,13b59881-5aaf-4510-9dcf-4f9d116bf645,2023-07-28,Instagram,Like,Positive,True,Instagram,Positive,Positive
 bee79853-c1ce-4da8-89d0-e36c93828c1c,6bdbfd0f-a68f-43cf-b64e-75f45a99fb0a,2023-10-24,Twitter,Comment,Positive,False,Twitter,Positive,Positive
 b3a0d002-1b78-443e-9605-fafe8a22ed3e,535695a4-0d5a-4c90-b45e-7ecfdb04d7c6,2024-06-21,Twitter,Like,Neutral,False,Twitter,Neutral,Neutral
 9866b7ec-4394-4a83-b3d2-b56182c0758b,35c40a04-34fe-48ff-a4dc-f99510f805dc,2023-07-06,Twitter,Like,Neutral,False,Twitter,Neutral,Neutral
@@ -2182,7 +2173,6 @@ d1c847af-df39-48d3-ad49-9cb659e3638a,cce772ef-d348-45d9-86de-7539b004d466,2024-0
 321acf6c-c401-4f7b-9835-bfb7cd5e48ff,9258c2bb-93c9-41ee-a73f-4e247dc25104,2023-11-04,Instagram,Like,Neutral,False,Instagram,Neutral,Neutral
 000c6bbd-533a-432d-922c-ab64197e71c5,72c0bb82-9307-4ba4-8925-a5100d3d0e56,2024-03-12,Unknown,Like,Neutral,False,,Neutral,Neutral
 b94a126b-755e-4ee1-91f6-c5f86ceef780,b487f01d-cba2-4f72-8ddf-fc1cabe930d2,2023-12-26,Facebook,Like,Negative,False,Facebook,Negative,Negative
-2ddc8052-fbbe-471c-a43e-54b81467423d,04391eb2-8391-44d8-9f45-29edcde96e5d,2023-11-30,Twitter,Share,Negative,True,Twitter,Negative,Negative
 da1f6038-aa85-4ecb-8bb0-de46a620415d,8af44146-7353-4f0c-89db-12a719d39c04,2023-09-30,Facebook,Comment,Neutral,False,Facebook,Neutral,Neutral
 e428f752-7388-44dd-8461-13f18101a835,5c0d0bfb-ff4c-4964-8b49-faf2350d2f71,2023-08-25,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
 fd63f236-3ec3-401d-9fa1-53bda0bd7c0e,f12b89ac-7bc9-4976-aab9-ef48816551e1,2024-04-23,Instagram,Share,Negative,False,Instagram,Negative,Negative
@@ -2489,7 +2479,6 @@ afc2a89b-0b66-4b13-83d0-54cc54e5dae0,e5483266-d292-4247-91c9-68ad408ea723,2024-0
 3c14e099-dc0a-4772-ae2d-524e33d81033,f21e6a03-8a5c-4d61-9ef1-53d86055d731,2024-06-14,Twitter,Share,Positive,False,Twitter,Positive,Positive
 f8df7ba1-4e72-441f-b5fb-40b84666e1fd,25103abc-9b10-4971-b732-0f115e632724,2024-03-30,Instagram,Comment,Neutral,False,Instagram,Neutral,Neutral
 b22ea045-5ad5-47fd-a03a-6657307f82bf,e7c1df3f-1048-4953-ad58-bbb6e62a0641,2023-07-26,Unknown,Like,Neutral,False,,Neutral,Neutral
-68afa4cc-e2d5-4150-b358-2e14e7508721,0942889b-a3a9-4039-b4b0-12fb8714c95f,2024-06-14,Twitter,Comment,Negative,True,Twitter,Negative,Negative
 8f95b24b-b425-4717-83ca-c2fccb6a6ea5,d11de12d-45ba-4974-95f3-db3f7ef2cc30,2024-06-02,Instagram,Like,Unknown,False,Instagram,,Unknown
 09db9681-6875-42ce-bdf3-b9cc13a8eb54,ab948cd2-94bf-4f04-bfb8-e54d3cc72d26,2023-11-11,Instagram,Like,Unknown,False,Instagram,,Unknown
 409c8d3d-63e6-4280-a699-91933c1eee73,7d1fbf60-6727-4064-9e95-0923e29132a6,2024-04-12,Twitter,Share,Negative,False,Twitter,Negative,Negative
@@ -2531,7 +2520,6 @@ d6fe4961-6886-49c3-b6be-07bab52aa19f,9ef3be0e-6d68-42b4-920b-29a9b8ce7534,2024-0
 25feddf4-42a5-47b9-8b95-ba74f0c0ea9b,685d8739-d307-44c6-929e-7b9b703601b3,2024-02-12,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
 32ea36b7-323e-451a-8b46-7c3540e03d4d,249accd4-4fb3-4755-be52-cdcdf9ad2c4c,2024-02-11,Instagram,Comment,Neutral,False,Instagram,Neutral,Neutral
 2cecde18-be4f-443a-9e48-fc7013fce734,daf39dc1-6012-4c42-8c6b-a58b0d2a3b30,2024-05-21,Instagram,Like,Unknown,False,Instagram,,Unknown
-e06f0e16-8e48-483b-b103-9f105b139ca8,071a2657-12a8-4216-9c64-baf9ab5c9420,2024-04-30,Twitter,Share,Very Positive,True,Twitter,Very Positive,Positive
 c51a0615-0139-4cfb-84f7-0c5f12c7d9b8,c50cf305-0ea7-44c7-afa5-635ac54036d6,2024-04-19,Instagram,Comment,Positive,False,Instagram,Positive,Positive
 36d3fae8-8b8c-4f92-8449-f31f1d1507ba,3aa6163e-4347-4ba2-a4a1-921c4ad318b3,2024-01-11,Instagram,Share,Unknown,False,Instagram,,Unknown
 ea7308c9-73f0-4539-8139-b12ecad3575d,feb03076-5e8c-4ca7-80f8-1f4a73abf311,2024-01-04,Facebook,Share,Positive,False,Facebook,Positive,Positive
@@ -2602,10 +2590,8 @@ a6cdffb1-b3cf-4aa3-af54-e42be3a8c260,13d8a4b4-94a1-4825-9c81-b3da7eb27fe2,2024-0
 64b89b9e-1cf4-4b42-add8-94b7ec861f1a,a1f36844-2e47-4bab-b98f-46182e78af35,2024-02-20,Twitter,Share,Positive,False,Twitter,Positive,Positive
 0b112fa1-e37c-4493-b4ff-64d56b4e3526,afa48b2e-93dd-4df1-8764-b4d3a1ab4de2,2023-12-18,Instagram,Comment,Unknown,False,Instagram,,Unknown
 29b0d097-a024-4afe-9b54-cce47df42f6c,bd99c567-916b-482e-b1ed-db930c18c68e,2024-05-25,Twitter,Comment,Negative,False,Twitter,Negative,Negative
-fd7e416c-1740-490d-b816-d909294eaa21,1d1c2f54-2b21-4004-a2ca-2983b01b0242,2023-11-30,Instagram,Share,Neutral,True,Instagram,Neutral,Neutral
 4a75d71b-1263-43c3-9533-a0b94f50fee0,02fe2369-cc53-4053-b8c3-5c29f98087dc,2023-09-19,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
 acffc73f-c2e5-4760-82d9-6b98b0066a8c,8308b59e-5318-49c4-93c3-4cb9568d1942,2024-06-27,Instagram,Share,Positive,False,Instagram,Positive,Positive
-3ea377e6-1156-457e-8b4e-71fa6663e6bf,9996e3b4-8270-4b04-a675-e00fe91dd835,2023-07-08,Facebook,Like,Positive,True,Facebook,Positive,Positive
 253fa70f-a41b-40c0-8958-37f3b5e204e0,a05ab50a-33d7-4c59-abd7-f67cd4787757,2024-01-11,Facebook,Share,Negative,False,Facebook,Negative,Negative
 328e739a-ddac-4661-97aa-76b8ee47e373,b093302b-b008-4751-a1ac-1516363c9e6e,2024-02-16,Facebook,Comment,Very Negative,False,Facebook,Very Negative,Negative
 c0bac7ce-a529-4c71-912e-fe63f475b8e9,71887561-0ead-4ab1-b57d-cf2d457a7577,2024-04-10,Instagram,Comment,Neutral,False,Instagram,Neutral,Neutral
@@ -2661,7 +2647,6 @@ c74dc709-15bb-4652-9930-1c5f5897bfe3,93fb1dea-14cb-43a5-8daf-382c3df0805e,2023-1
 f8c0198a-5f47-4bbf-b9e4-e8a4dbf4380c,cfa04f5d-8d20-4582-bc0f-0074741925c1,2024-02-26,Facebook,Comment,Unknown,False,Facebook,,Unknown
 7ad2f808-14ec-407a-9485-a0a140891701,509dde18-6063-41d8-b4a2-abbd4c4869ad,2023-12-23,Twitter,Comment,Negative,False,Twitter,Negative,Negative
 1bc7f7da-3a8f-4df1-a411-c7c1d9a794fe,cd9c7c53-eb70-491d-baba-f570d95ebcef,2023-12-26,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
-4d20c2b1-2f8a-4066-902c-bd068c2adccc,e5be1d7a-fdba-4e91-8674-577ac01cddf0,2024-05-16,Unknown,Like,Positive,True,,Positive,Positive
 93e30b51-c0cc-40b1-82cf-7478d75cac87,c6cc8995-f947-4842-a58a-17588196a15f,2023-10-16,Instagram,Like,Neutral,False,Instagram,Neutral,Neutral
 0d27c7ac-346c-454f-b37d-75fddef246ad,81bef40c-8d7e-4b8f-adc5-cec20db2a988,2024-06-17,Facebook,Share,Negative,False,Facebook,Negative,Negative
 d9ebf03c-6e01-4a50-9db9-58681d604dc0,95a005ee-12f8-42a4-8787-88bd7258f7c2,2024-02-07,Twitter,Like,Unknown,False,Twitter,,Unknown
@@ -2671,7 +2656,6 @@ b836eea2-4914-429c-af83-8f51b24a8a5b,2f0276ba-3115-493b-b746-890d4d3d504a,2023-0
 012ae657-f6e3-4ab1-aaf4-f93ae8962dd9,16e0bbb9-4baa-4ada-9454-8779a2b7aa80,2023-11-17,Instagram,Like,Negative,False,Instagram,Negative,Negative
 f05ec030-ac96-417d-a73c-e3ca3adc1a30,53628b30-a8ff-4e58-a1e9-1685bfe68c5c,2023-08-14,Facebook,Share,Positive,False,Facebook,Positive,Positive
 e66af974-8c25-44b9-af2e-d200074e6625,ec84f759-3cab-444b-95b5-3cdfcda90756,2024-05-17,Twitter,Comment,Neutral,False,Twitter,Neutral,Neutral
-5711d1af-71f2-4b99-a965-3ffdc39d32c8,1c2f510a-5ab5-4575-8f62-8ba8decf1302,2024-06-29,Twitter,Share,Unknown,True,Twitter,,Unknown
 36bc83c7-adc6-45b8-960d-685e9d19661e,e982d98b-3538-4bae-9539-7e7cdf258022,2023-12-05,Instagram,Share,Positive,False,Instagram,Positive,Positive
 83355281-fda3-4776-9f9d-a812243c3b56,7e59c589-907e-470b-a502-ae66ee32aa01,2023-09-28,Twitter,Like,Unknown,False,Twitter,,Unknown
 7896af42-ad39-42fb-97a4-306df323e008,269e8407-9d70-4415-8a07-47d36df3a70f,2024-03-27,Facebook,Share,Negative,False,Facebook,Negative,Negative
@@ -2700,7 +2684,6 @@ ddd6874c-cdb5-4171-b1be-4a64d7f13246,bd851ccc-c284-4cdb-8a4f-89aedfc461db,2024-0
 8036eeba-6f8a-4859-a21e-16f4c29cfa3d,6fb1bc5e-5541-4f6a-b333-21b956e3a299,2024-06-28,Facebook,Comment,Neutral,False,Facebook,Neutral,Neutral
 131e14c8-65bb-4559-9016-d0a0c4fc64e9,9dff7884-3e07-4fe4-8322-8eab83af0dfd,2023-12-09,Facebook,Like,Negative,False,Facebook,Negative,Negative
 c00d08be-e282-448f-91ef-7c236e320404,b86612ac-6a7d-438c-b932-052fdca8331a,2024-01-11,Facebook,Comment,Negative,False,Facebook,Negative,Negative
-9b8179f4-f187-4cfd-b12a-0c182539f178,8570854d-62ce-4c74-8a2e-0b85ccc5774e,2024-04-15,Instagram,Comment,Neutral,True,Instagram,Neutral,Neutral
 409d7d69-e0b1-4493-8b23-100fb9518966,036a8346-a335-415c-b259-4d71038ab4eb,2023-09-07,Facebook,Share,Positive,False,Facebook,Positive,Positive
 6031484a-676d-4daf-bfcb-a741a8378cbd,e3eea50d-1606-4248-b49e-9657e799be43,2024-06-24,Facebook,Like,Positive,False,Facebook,Positive,Positive
 6c78ab25-9895-4054-968d-0a5264ffa064,4c002a2c-e64c-47de-a5b7-9c1089fc40df,2024-01-27,Instagram,Comment,Positive,False,Instagram,Positive,Positive
@@ -2752,7 +2735,6 @@ a9af986b-d677-421a-81df-3d289ce9e38f,97cc0320-3548-45dd-8ece-a967f01dd856,2024-0
 c849d8b0-2b3a-414b-842f-3f4c8bd24004,2bc023f1-e06f-4e2d-87b2-2fcb84114969,2023-07-17,Twitter,Like,Positive,False,Twitter,Positive,Positive
 c3ee84bb-f586-4e4f-9d43-48af820faf03,e4b4a221-0082-4b3d-95f7-c6f778364ebd,2024-06-24,Unknown,Like,Positive,False,,Positive,Positive
 c00d08be-e282-448f-91ef-7c236e320404,34c63c74-6bf4-4edb-aad0-fa6fcf1f6167,2024-05-25,Facebook,Like,Neutral,False,Facebook,Neutral,Neutral
-c3547dd4-61cc-495c-a7a2-b103bbae3835,85cb819c-9451-4028-9ddd-132c55260a68,2023-08-23,Twitter,Share,Positive,True,Twitter,Positive,Positive
 6e08ae8f-593d-425c-bf3c-542b3bbb1377,2a623384-3e5c-4482-9c31-c04733f4fa4c,2024-05-03,Facebook,Like,Negative,False,Facebook,Negative,Negative
 6cd7a734-a51d-4a11-ba1c-00c49d9a4490,674cbb19-fe7b-4ae7-a4e8-0d915165d12b,2024-05-05,Facebook,Comment,Negative,False,Facebook,Negative,Negative
 ed13064a-2580-4ab5-86fa-7d3c76aa0357,594215ed-b605-4b2f-8b5f-db66882b3494,2023-07-21,Unknown,Share,Negative,False,,Negative,Negative
@@ -2880,7 +2862,6 @@ d06373dd-8d92-4e7d-8329-c4ce400b0d42,eca8e1e3-0680-459d-89bd-54daa0954e6b,2023-0
 96b637b6-adb9-4bd1-83fa-643d65056c8a,6e8ed28d-26a6-45c4-b9e9-28816048039c,2024-01-21,Twitter,Comment,Unknown,False,Twitter,,Unknown
 306b1117-5749-4c99-bde1-62b0c65307a6,70633f35-346c-4f7c-8da8-b96c0094df81,2023-10-27,Instagram,Like,Positive,False,Instagram,Positive,Positive
 2bb89c7f-6cf2-4501-85e4-b881aa0cc217,7e04888f-b72b-499d-aa8c-569d0418a50b,2024-05-19,Instagram,Comment,Negative,False,Instagram,Negative,Negative
-ce2ece8f-91c3-420a-9d80-8b1f5051dc77,3a30bab5-53a0-4169-8244-419e2459dcd9,2023-11-30,Instagram,Share,Positive,True,Instagram,Positive,Positive
 3330dbb6-1b22-4fe5-a4b5-0e5ce39d8591,c04b4b29-e779-4e13-ae08-776bba8838d4,2024-05-25,Instagram,Like,Neutral,False,Instagram,Neutral,Neutral
 9e438f09-ec06-42e1-8c45-25063e2429aa,553595ef-862c-4559-95ff-f8bda4a7d144,2023-07-15,Twitter,Like,Negative,False,Twitter,Negative,Negative
 a523b30b-f05c-4704-b3b6-e36c4e637440,417191f5-3141-448f-8b43-41526715f590,2023-09-26,Instagram,Like,Negative,False,Instagram,Negative,Negative
@@ -2936,7 +2917,6 @@ a9af986b-d677-421a-81df-3d289ce9e38f,977ddeac-5ee1-4d4a-b65f-4e322e36ac48,2024-0
 a8f82019-5586-46dc-87b2-3660e80ecd7d,b5f9f341-abbe-461a-811e-8360fd7bec6e,2024-04-20,Instagram,Share,Neutral,False,Instagram,Neutral,Neutral
 f6cc6186-5ab4-4a50-9513-a5f1104bd599,9118bbfe-dec3-4d0e-af39-2e8528c90f33,2023-11-19,Facebook,Like,Positive,False,Facebook,Positive,Positive
 c6789ac7-81c7-469a-a613-fe1fe1487953,fed6c4e4-244a-4111-adc5-1f941f1f9807,2023-11-07,Instagram,Comment,Negative,False,Instagram,Negative,Negative
-0831f0ad-bf6b-4023-b1bf-acea2388fcf3,a229e2d8-fd5d-44a1-805e-5281a52badf7,2023-12-27,Twitter,Comment,Very Positive,True,Twitter,Very Positive,Positive
 72409c14-91d0-4d05-aed2-b001458a1007,7fc59e69-8c40-41e3-a570-97f810de6061,2024-04-17,Twitter,Like,Neutral,False,Twitter,Neutral,Neutral
 37c2adef-c273-4da9-a16b-a542116416cf,7b31bd4e-7c32-4d18-9030-1e1fe7a06ffd,2023-07-06,Twitter,Share,Positive,False,Twitter,Positive,Positive
 f381038c-b3ed-4561-84b1-0f60d4afb6c9,1045a13e-f2c8-4d8a-a7ce-e179659f821c,2023-07-27,Facebook,Comment,Neutral,False,Facebook,Neutral,Neutral
@@ -2999,23 +2979,3 @@ f9cb178a-b717-4782-91ce-20564e98ee81,6b6be581-76f3-46b5-8747-67a60b33f929,2024-0
 658c09ee-ffab-4a46-b971-af23b5b5da0e,92c22255-a900-4eb1-ae79-52d3ae9e816d,2023-11-18,Twitter,Like,Neutral,False,Twitter,Neutral,Neutral
 e2678aa5-6131-49ab-b2b4-fa51e46c7784,7cb3851d-09cd-455c-86e4-04cc56138f99,2024-03-01,Twitter,Like,Neutral,False,Twitter,Neutral,Neutral
 a5d08a95-9dba-4e3d-b997-1cfdde6a89ef,e77a8713-fdc7-4f71-85f8-9cd88cca0c42,2023-11-01,Twitter,Share,Positive,False,Twitter,Positive,Positive
-11b046f0-b091-4bfb-b0f4-df58bfea039a,01f1c8c8-df21-4d75-adbb-feb6d4c84317,2024-03-20,Instagram,Like,Positive,True,Instagram,Positive,Positive
-a44b6ca5-c73e-4f7a-919c-617931e33a29,13b59881-5aaf-4510-9dcf-4f9d116bf645,2024-04-06,Instagram,Like,Positive,True,Instagram,Positive,Positive
-fd7e416c-1740-490d-b816-d909294eaa21,1d1c2f54-2b21-4004-a2ca-2983b01b0242,2023-07-17,Instagram,Share,Neutral,True,Instagram,Neutral,Neutral
-3ea377e6-1156-457e-8b4e-71fa6663e6bf,9996e3b4-8270-4b04-a675-e00fe91dd835,2023-08-12,Facebook,Like,Positive,True,Facebook,Positive,Positive
-c0c0ce5a-4539-4013-abca-d0a3e41b4e2a,4639a6fd-3d89-4e1d-b783-f226eb92f14f,2023-07-23,Twitter,Comment,Negative,True,Twitter,Negative,Negative
-a60e0cb6-7b43-44f2-956a-16caae372e9f,37ce93d2-27b5-478f-808c-3095cae7fae1,2023-10-22,Twitter,Comment,Positive,True,Twitter,Positive,Positive
-a56b8bed-1d7a-4cc2-abeb-d847aac0ff74,98cf7859-e4a9-465b-96fe-ed51a1f1aa92,2024-06-04,Facebook,Like,Unknown,True,Facebook,,Unknown
-68afa4cc-e2d5-4150-b358-2e14e7508721,0942889b-a3a9-4039-b4b0-12fb8714c95f,2024-01-24,Twitter,Comment,Negative,True,Twitter,Negative,Negative
-0831f0ad-bf6b-4023-b1bf-acea2388fcf3,a229e2d8-fd5d-44a1-805e-5281a52badf7,2023-12-27,Twitter,Comment,Negative,True,Twitter,Negative,Negative
-2ddc8052-fbbe-471c-a43e-54b81467423d,04391eb2-8391-44d8-9f45-29edcde96e5d,2023-11-30,Twitter,Share,Very Positive,True,Twitter,Very Positive,Positive
-c3547dd4-61cc-495c-a7a2-b103bbae3835,85cb819c-9451-4028-9ddd-132c55260a68,2023-10-23,Twitter,Share,Positive,True,Twitter,Positive,Positive
-9b8179f4-f187-4cfd-b12a-0c182539f178,8570854d-62ce-4c74-8a2e-0b85ccc5774e,2024-02-22,Instagram,Comment,Neutral,True,Instagram,Neutral,Neutral
-ef10b8a1-1014-4edf-a80e-207b7790e894,1966cdba-7e47-48b6-ae29-dd8fbead8527,2023-07-19,Twitter,Comment,Very Negative,True,Twitter,Very Negative,Negative
-54c10762-4c2c-4b9a-a602-d0069520ab2b,1c28fcb7-81fc-462c-a0a3-785f00070cd7,2024-03-14,Facebook,Like,Positive,True,Facebook,Positive,Positive
-ce2ece8f-91c3-420a-9d80-8b1f5051dc77,3a30bab5-53a0-4169-8244-419e2459dcd9,2024-06-17,Instagram,Share,Positive,True,Instagram,Positive,Positive
-e06f0e16-8e48-483b-b103-9f105b139ca8,071a2657-12a8-4216-9c64-baf9ab5c9420,2024-04-30,Twitter,Share,Neutral,True,Twitter,Neutral,Neutral
-4d20c2b1-2f8a-4066-902c-bd068c2adccc,e5be1d7a-fdba-4e91-8674-577ac01cddf0,2024-05-16,Unknown,Like,Very Negative,True,,Very Negative,Negative
-b7b84b81-c61b-4f23-b3db-b18010484122,93d2d3e1-841e-4ece-91c1-3b1998a4cab8,2023-12-16,Twitter,Like,Neutral,True,Twitter,Neutral,Neutral
-5659a8c6-0397-4396-b561-52ec1c8a760b,d7f6806b-f348-431e-9198-07f0685d8d8e,2024-01-28,Facebook,Share,Negative,True,Facebook,Negative,Negative
-5711d1af-71f2-4b99-a965-3ffdc39d32c8,1c2f510a-5ab5-4575-8f62-8ba8decf1302,2024-06-29,Twitter,Share,Negative,True,Twitter,Negative,Negative
