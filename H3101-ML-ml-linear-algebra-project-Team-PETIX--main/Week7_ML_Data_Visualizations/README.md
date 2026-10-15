@@ -10,8 +10,10 @@ analysis completed in Milestone 1.
 [finmark_visualization_workflow.ipynb](finmark_visualization_workflow.ipynb)
 
 The notebook uses Pandas, NumPy, Matplotlib, and Seaborn to calculate
-numerical summaries, create seven visualizations, and explain the
-findings and their relevance to future machine learning.
+descriptive summaries, percentiles, distribution shape measures,
+IQR-based outlier counts, and frequency distributions for observed ages
+and valid transaction amounts. It creates ten visualizations and
+explains the findings and their relevance to future machine learning.
 
 ## Supporting Files
 
@@ -19,7 +21,7 @@ findings and their relevance to future machine learning.
 - `data_raw/` – Original datasets used for source verification.
 - `data_cleaned/` – Supporting cleaned datasets from Milestone 1.
 - `data_audit/` – Supporting records of unresolved ID conflicts.
-- `figures/` – Seven exported visualization PNG files.
+- `figures/` – Ten exported visualization PNG files.
 
 ## Analysis Subsets
 
@@ -31,17 +33,25 @@ findings and their relevance to future machine learning.
 - Age–amount relationship: 2,299 transactions from 1,510 matched customers
   with observed ages and valid amounts.
 
-## Visualizations
+## Recommended Main Report Figures
 
 1. Observed customer age distribution.
 2. Transaction amount distribution.
-3. Transaction counts by product category.
-4. Transaction amount distributions by product category.
-5. Monthly recorded transaction counts.
-6. Sentiment percentages within each platform.
-7. Observed customer age versus transaction amount.
+3. Monthly recorded transaction counts, with uneven date coverage noted.
+4. Sentiment percentages within each platform.
+5. Product category percentages within each payment method; this is a descriptive comparison, and the measured association is weak.
+6. Transaction amount data status, separating missing, nonnumeric, negative, zero, and other numeric values.
 
-Each chart includes an interpretation in the notebook.
+## Supporting Visualizations
+
+- Product category transaction counts.
+- Transaction amount distributions by product category; useful for medians, spread, and the IQR outlier check.
+- Observed customer age versus transaction amount; each point is a transaction, and customers can appear more than once.
+- Observed customer age by gender; the distributions overlap substantially.
+
+Each chart includes an interpretation in the notebook. A final analysis
+section discusses patterns, relationships, category balance, unusual
+values, and considerations for future machine learning.
 
 ## Running the Notebook
 
