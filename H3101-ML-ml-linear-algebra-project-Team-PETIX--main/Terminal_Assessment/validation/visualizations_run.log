@@ -1,0 +1,205 @@
+All libraries imported successfully!
+Current folder: /workspace/scratch/081de1a72367/output/Terminal_Assessment
+
+Demographics — 2,977 rows
+CustomerID      object
+Age            float64
+Gender          object
+Location        object
+IncomeLevel     object
+SignupDate      object
+IDConflict        bool
+AgeOriginal     object
+AgeStatus       object
+AgeObserved    float64
+AgeImputed        bool
+
+Transactions — 2,985 rows
+CustomerID          object
+TransactionID       object
+TransactionDate     object
+Amount             float64
+ProductCategory     object
+PaymentMethod       object
+IDConflict            bool
+AmountOriginal      object
+AmountStatus        object
+
+Valid transaction amounts — 2,642 rows
+CustomerID          object
+TransactionID       object
+TransactionDate     object
+Amount             float64
+ProductCategory     object
+PaymentMethod       object
+IDConflict            bool
+AmountOriginal     float64
+AmountStatus        object
+
+Social media — 2,980 rows
+CustomerID           object
+InteractionID        object
+InteractionDate      object
+Platform             object
+InteractionType      object
+Sentiment            object
+IDConflict             bool
+PlatformOriginal     object
+SentimentOriginal    object
+SentimentGrouped     object
+Observed ages: 2615
+Valid amounts: 2642
+Social media records: 2980
+Ages outside 18–100: 0
+Negative amounts: 0
+Zero amounts retained: 28
+                             Observed Age  Valid Amount
+Count                             2615.00       2642.00
+Mean                                44.59        499.03
+Median                              45.00        503.66
+Standard deviation (sample)         15.42        292.46
+Variance (sample)                  237.81      85533.17
+Minimum                             18.00          0.00
+Maximum                             70.00        999.86
+Range                               52.00        999.86
+25th percentile (Q1)                31.00        237.98
+75th percentile (Q3)                58.00        749.18
+Interquartile range (IQR)           27.00        511.19
+   Age interval  Count  Percentage
+0         18–22    233        8.91
+1         23–27    261        9.98
+2         28–32    219        8.37
+3         33–37    240        9.18
+4         38–42    237        9.06
+5         43–47    238        9.10
+6         48–52    238        9.10
+7         53–57    267       10.21
+8         58–62    275       10.52
+9         63–67    245        9.37
+10        68–72    162        6.20
+                 Count  Percentage
+ProductCategory                   
+Clothing           565       18.93
+Electronics        558       18.69
+Automotive         536       17.96
+Home & Garden      528       17.69
+Health & Beauty    520       17.42
+Unknown            278        9.31
+                 count  median    mean
+ProductCategory                       
+Home & Garden      469  524.62  525.16
+Automotive         479  519.57  504.45
+Electronics        492  510.75  494.53
+Clothing           498  507.66  500.67
+Health & Beauty    455  466.14  478.96
+Unknown            249  461.82  481.64
+  Product category  Lower fence  Upper fence  Potential outliers
+0       Automotive      -544.17      1527.94                   0
+1         Clothing      -517.89      1515.95                   0
+2      Electronics      -506.69      1466.66                   0
+3  Health & Beauty      -585.10      1547.20                   0
+4    Home & Garden      -423.68      1478.04                   0
+5          Unknown      -590.65      1538.20                   0
+Total transaction records: 2985
+Missing or unparseable dates: 0
+Earliest date: 2022-01-07 00:00:00
+Latest date: 2024-12-06 00:00:00
+                 Transaction count
+TransactionDate                   
+2022-01                          3
+2022-03                          1
+2022-04                          1
+2022-05                          1
+2022-06                          1
+2022-07                        113
+2022-08                        109
+2022-09                        119
+2022-10                        120
+2022-11                        123
+2022-12                        135
+2023-01                        118
+2023-02                        109
+2023-03                        132
+2023-04                        116
+2023-05                        143
+2023-06                        106
+2023-07                        141
+2023-08                        108
+2023-09                        127
+2023-10                        139
+2023-11                        103
+2023-12                        117
+2024-01                        146
+2024-02                        132
+2024-03                        137
+2024-04                        122
+2024-05                        147
+2024-06                        112
+2024-10                          1
+2024-11                          1
+2024-12                          2
+                             TransactionID TransactionDate
+2379  aee21c96-febd-4906-9881-12e32030e7f4      2022-01-07
+872   181ad5a0-fb64-470c-9e97-5dbd7a938afc      2022-01-08
+2004  cc60f6b0-4598-4fab-8083-cb39d771e44c      2022-01-11
+2220  13e60003-b968-45fd-8054-2f883c124c9f      2022-03-09
+1660  4cd1f1f4-3efd-4bf0-8bc3-f0b248650488      2022-04-11
+783   3292fdfd-806c-4226-bfed-4649f18ad018      2022-05-07
+502   a42657eb-b99d-4b66-b0e7-96a9cd6def89      2022-06-07
+2926  b4a5dcda-c2d0-4853-8db3-400127521eb4      2024-10-05
+937   4e8da5ae-dd89-4fd1-85a4-d3341a97024d      2024-11-04
+601   64f3ee25-c285-41ee-92b6-f70b006554ae      2024-12-06
+1085  835b4e5d-8b5a-465a-af65-2ea388c9d90a      2024-12-06
+Records outside the main period: 11
+                           TransactionID TransactionDate         OriginalDate
+0   aee21c96-febd-4906-9881-12e32030e7f4      2022-01-07  2022-01-07 00:00:00
+1   181ad5a0-fb64-470c-9e97-5dbd7a938afc      2022-01-08  2022-01-08 00:00:00
+2   cc60f6b0-4598-4fab-8083-cb39d771e44c      2022-01-11  2022-01-11 00:00:00
+3   13e60003-b968-45fd-8054-2f883c124c9f      2022-03-09  2022-03-09 00:00:00
+4   4cd1f1f4-3efd-4bf0-8bc3-f0b248650488      2022-04-11  2022-04-11 00:00:00
+5   3292fdfd-806c-4226-bfed-4649f18ad018      2022-05-07  2022-05-07 00:00:00
+6   a42657eb-b99d-4b66-b0e7-96a9cd6def89      2022-06-07  2022-06-07 00:00:00
+7   b4a5dcda-c2d0-4853-8db3-400127521eb4      2024-10-05  2024-10-05 00:00:00
+8   4e8da5ae-dd89-4fd1-85a4-d3341a97024d      2024-11-04  2024-11-04 00:00:00
+9   64f3ee25-c285-41ee-92b6-f70b006554ae      2024-12-06  2024-12-06 00:00:00
+10  835b4e5d-8b5a-465a-af65-2ea388c9d90a      2024-12-06  2024-12-06 00:00:00
+Social media columns:
+['CustomerID', 'InteractionID', 'InteractionDate', 'Platform', 'InteractionType', 'Sentiment', 'IDConflict', 'PlatformOriginal', 'SentimentOriginal', 'SentimentGrouped']
+
+Platform:
+           Count
+Platform        
+Instagram    911
+Twitter      897
+Facebook     883
+Unknown      289
+
+SentimentGrouped:
+                  Count
+SentimentGrouped       
+Positive            919
+Negative            887
+Neutral             867
+Unknown             307
+SentimentGrouped  Positive  Neutral  Negative  Unknown
+Platform                                              
+Instagram              295      255       276       85
+Twitter                251      273       271      102
+Facebook               270      262       258       93
+Unknown                103       77        82       27
+Duplicate demographic CustomerIDs: 0
+Valid-amount records: 2642
+Records after linking: 2642
+No matching demographic record: 27
+Matched but observed age unavailable: 316
+Records available for scatter plot: 2299
+Pearson correlation: 0.0315
+Unique customers: 1510
+Exported charts: 7
+01_observed_age_distribution.png
+02_transaction_amount_distribution.png
+03_product_category_counts.png
+04_amount_by_product_category.png
+05_monthly_transaction_counts.png
+06_sentiment_by_platform_heatmap.png
+07_age_vs_transaction_amount.png

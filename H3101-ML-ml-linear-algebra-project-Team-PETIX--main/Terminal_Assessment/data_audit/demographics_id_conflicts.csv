@@ -1,0 +1,47 @@
+SourceExcelRow,CustomerID,Age,Gender,Location,IncomeLevel,SignupDate
+3026,08995799-8d0f-40d6-986b-452074709b5f,61,Male,New Lukeville,Medium,2020-03-28 00:00:00
+1538,08995799-8d0f-40d6-986b-452074709b5f,61,Male,New Lukeville,Medium,15/11/2019
+3087,1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44,Female,Brianmouth,Medium,2019-07-11 00:00:00
+306,1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44,Female,Brianmouth,Medium,2022-07-28 00:00:00
+3085,29436bcf-d6f8-44d1-a856-0794abb562ab,68,Female,New Fred,Low,2020-12-03 00:00:00
+756,29436bcf-d6f8-44d1-a856-0794abb562ab,68,Female,New Fred,Low,2021-09-01 00:00:00
+3053,2cd16dfc-d7b0-47ec-9999-b018daea7f8d,52,Female,Lake Carloshaven,Medium,2024-05-02 00:00:00
+2108,2cd16dfc-d7b0-47ec-9999-b018daea7f8d,Unknown,Female,Lake Carloshaven,Medium,2024-05-02 00:00:00
+1240,3814b8e4-cade-4665-86af-dda3e3628f17,32,Female,Port Bonnieshire,Medium,2021-06-25 00:00:00
+3006,3814b8e4-cade-4665-86af-dda3e3628f17,150,Female,Port Bonnieshire,Medium,2021-06-25 00:00:00
+3167,48313b18-ccdb-4946-b958-1ebfc92dcc2a,59,Male,South Andrea,High,2020-02-26 00:00:00
+340,48313b18-ccdb-4946-b958-1ebfc92dcc2a,Unknown,Male,South Andrea,High,2020-02-26 00:00:00
+541,50465bde-6a9a-466d-804a-a8f046809a23,-1,Male,Harrismouth,High,2023-08-02 00:00:00
+3043,50465bde-6a9a-466d-804a-a8f046809a23,35,Male,Harrismouth,High,2023-08-02 00:00:00
+3147,5050eefe-2392-4d18-b4b6-913d42b9f62b,20,Female,Alexanderstad,High,2021-02-20 00:00:00
+1770,5050eefe-2392-4d18-b4b6-913d42b9f62b,-1,Female,Alexanderstad,High,2021-02-20 00:00:00
+3134,6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,-1,Male,Lake Karen,Low,2023-04-04 00:00:00
+176,6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,65,Male,Lake Karen,Low,2023-04-04 00:00:00
+3140,7544489f-ec7e-48af-bec6-b6eab94a6e5c,150,Male,South Jared,High,2024-03-02 00:00:00
+2341,7544489f-ec7e-48af-bec6-b6eab94a6e5c,64,Male,South Jared,High,2024-03-02 00:00:00
+3152,76c1d696-0f1c-44b5-b749-8859545658eb,34,Female,South Frankside,High,2020-05-14 00:00:00
+1357,76c1d696-0f1c-44b5-b749-8859545658eb,Unknown,Female,South Frankside,High,2020-05-14 00:00:00
+1583,7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55,Male,New Anthonyland,High,2021-07-01 00:00:00
+3185,7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55,Male,New Anthonyland,High,2022-07-23 00:00:00
+2084,83355281-fda3-4776-9f9d-a812243c3b56,31,Female,Ashleychester,Medium,23/02/2022
+3064,83355281-fda3-4776-9f9d-a812243c3b56,31,Female,Ashleychester,Medium,2024-04-15 00:00:00
+913,835384f5-c976-481d-8961-cc827dc62c6b,60,Male,Stricklandport,High,2019-01-07 00:00:00
+3089,835384f5-c976-481d-8961-cc827dc62c6b,60,Male,Stricklandport,High,2023-09-30 00:00:00
+1001,890f10ce-36f6-4993-9a2e-a00dfdf01609,33,Female,Denisehaven,Low,2022-09-04 00:00:00
+3151,890f10ce-36f6-4993-9a2e-a00dfdf01609,33,Female,Denisehaven,Low,27/05/2021
+1686,89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55,Female,New Michael,Low,2022-03-03 00:00:00
+3121,89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55,Female,New Michael,Low,18/01/2024
+2775,9612ee49-09dd-4f55-9524-9eb341efa2b9,Unknown,Male,North Breanna,High,2020-07-30 00:00:00
+3045,9612ee49-09dd-4f55-9524-9eb341efa2b9,28,Male,North Breanna,High,2020-07-30 00:00:00
+227,b72f2a59-aab0-447d-bb31-9bdc1405cc72,34,Female,West Jason,High,2024-10-06 00:00:00
+3164,b72f2a59-aab0-447d-bb31-9bdc1405cc72,34,Female,West Jason,High,2021-09-19 00:00:00
+1385,bb07fa4a-8680-4b77-b1ad-5d2f67570252,52,Male,Port Davidtown,High,2019-06-08 00:00:00
+3080,bb07fa4a-8680-4b77-b1ad-5d2f67570252,52,Male,Port Davidtown,High,2020-11-06 00:00:00
+1544,bbe76a26-234f-4a70-b71f-fa9b183f6353,57,Male,Gregoryfurt,High,2020-06-23 00:00:00
+3180,bbe76a26-234f-4a70-b71f-fa9b183f6353,Unknown,Male,Gregoryfurt,High,2020-06-23 00:00:00
+162,bbf7c36f-3745-4d3a-9e33-f927c2755f65,45,Female,Roberttown,Medium,2019-07-07 00:00:00
+3197,bbf7c36f-3745-4d3a-9e33-f927c2755f65,45,Female,Roberttown,Medium,2023-02-17 00:00:00
+2553,c2351d11-59fe-4630-a6df-e01bc343de33,68,Female,East Pamela,,15/06/2022
+3081,c2351d11-59fe-4630-a6df-e01bc343de33,68,Female,East Pamela,,2022-02-04 00:00:00
+3188,ce5cf079-859b-43fa-9609-c6bb7e12c6b7,41,Female,Adrianhaven,Low,2024-01-10 00:00:00
+1138,ce5cf079-859b-43fa-9609-c6bb7e12c6b7,-1,Female,Adrianhaven,Low,2024-01-10 00:00:00

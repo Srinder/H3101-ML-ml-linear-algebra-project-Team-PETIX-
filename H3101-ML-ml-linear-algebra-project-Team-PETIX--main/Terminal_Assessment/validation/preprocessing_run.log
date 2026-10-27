@@ -1,0 +1,583 @@
+Pandas version: 2.2.3
+Setup successful.
+Project folder: /workspace/scratch/081de1a72367/output/Terminal_Assessment
+Raw data folder exists: True
+Cleaned data folder exists: True
+
+Files found:
+- customer_transactions_contaminated.xlsx
+- social_media_interactions_contaminated.xlsx
+- customer_demographics_contaminated.xlsx
+Datasets loaded successfully.
+Customer demographics: (3200, 6)
+Customer transactions: (3200, 6)
+Social media interactions: (3200, 6)
+CUSTOMER DEMOGRAPHICS
+                             CustomerID  Age  Gender           Location IncomeLevel           SignupDate
+0  9207fa75-5758-48d1-94ad-19c041e0520f   51  Female         Jensenberg         Low  2022-11-17 00:00:00
+1  5fb09cd8-a473-46f7-80bd-6e49cf509078  NaN  Female       Castilloport        High  2020-07-21 00:00:00
+2  c139496e-cc89-498a-bd90-1fb4627b6cff   37    Male  Lake Jennifertown         NaN  2021-01-01 00:00:00
+3  50118139-7264-428f-81cc-a25fddc5d6dd   44    Male          Port Carl      Medium  2024-06-10 00:00:00
+4  7d1f2bbc-8d16-4fbc-9b37-ece3324e8ed4   50  Female          Jessebury        High  2023-08-24 00:00:00
+CUSTOMER TRANSACTIONS
+                             CustomerID                         TransactionID      TransactionDate  Amount  ProductCategory  PaymentMethod
+0  60567026-f719-4cd6-849e-137e86d8938f  5ff75116-0a50-4d04-80fb-31e5ccbb0769  2024-05-15 00:00:00  117.64         Clothing         PayPal
+1  4090ba85-b111-4f75-a792-c777965f5255  2c39b9fe-ff57-4d39-9321-9f5cdf187aa1  2023-04-26 00:00:00  466.14  Health & Beauty  Bank Transfer
+2  9223891b-73ff-4d5c-b8ae-13ece82ee28b  f79588dd-3db9-4ffa-97f8-7de0e64259f1  2022-09-23 00:00:00  563.99         Clothing     Debit Card
+3  9243eebc-938f-480c-8564-16d503d250de  401c0fc9-60df-4455-ad78-67c132f9897d  2024-04-15 00:00:00  254.44       Automotive         PayPal
+4  6e3e8eb8-bc0f-4ffe-9f74-5d5efec9502f  2034aebc-8280-4254-a667-92bcd1c2be4f  2024-06-03 00:00:00  590.52    Home & Garden  Bank Transfer
+SOCIAL MEDIA INTERACTIONS
+                             CustomerID                         InteractionID      InteractionDate   Platform InteractionType Sentiment
+0  2dcb9523-356b-40b2-a67b-1f27797de261  e5d15761-d0a7-4329-89e3-79a892c56097  2023-07-11 00:00:00        NaN         Comment       NaN
+1  e12c37b3-7d4d-472f-9fd8-0df2cb3001aa  02f9f376-70ae-4fcd-9070-1db977939948  2023-07-06 00:00:00    Twitter           Share       NaN
+2  08a911a3-65e6-4f5d-a6a1-ae7ddcbe28a2  a83fa04c-f109-4f24-8ce1-2078154f6a1c  2024-05-24 00:00:00  Instagram         Comment   Neutral
+3  efdfdfc9-5dbb-4478-911a-101a390a0285  28a69c4b-a2e4-4c74-a130-1132d7733fdf  2023-11-01 00:00:00  Instagram            Like   Neutral
+4  ca1e90f6-0e5f-492e-ab92-252ff540da18  d9d1c6f8-5e15-4738-b52b-13c2982420cc  2023-07-08 00:00:00  Instagram            Like       NaN
+                     Dataset  Rows  Columns  Exact Duplicate Rows  Total Missing Values
+0      Customer Demographics  3200        6                   177                   594
+1      Customer Transactions  3200        6                   185                   603
+2  Social Media Interactions  3200        6                   180                   640
+
+Customer Demographics
+CustomerID       0
+Age            291
+Gender           0
+Location         0
+IncomeLevel    303
+SignupDate       0
+dtype: int64
+
+Customer Transactions
+CustomerID           0
+TransactionID        0
+TransactionDate      0
+Amount             304
+ProductCategory    299
+PaymentMethod        0
+dtype: int64
+
+Social Media Interactions
+CustomerID           0
+InteractionID        0
+InteractionDate      0
+Platform           311
+InteractionType      0
+Sentiment          329
+dtype: int64
+
+Customer Demographics
+CustomerID     object
+Age            object
+Gender         object
+Location       object
+IncomeLevel    object
+SignupDate     object
+dtype: object
+
+Customer Transactions
+CustomerID         object
+TransactionID      object
+TransactionDate    object
+Amount             object
+ProductCategory    object
+PaymentMethod      object
+dtype: object
+
+Social Media Interactions
+CustomerID         object
+InteractionID      object
+InteractionDate    object
+Platform           object
+InteractionType    object
+Sentiment          object
+dtype: object
+Invalid non-numeric Age values:
+Age
+Unknown    34
+Name: count, dtype: int64
+
+Numeric Age range:
+Minimum: -1.0
+Maximum: 150.0
+
+Suspicious Age values:
+Age
+-1.0      30
+ 150.0    33
+Name: count, dtype: int64
+
+Gender values:
+Gender
+Female    1610
+Male      1590
+Name: count, dtype: int64
+
+Income level values:
+IncomeLevel
+High      1004
+Low        985
+Medium     908
+NaN        303
+Name: count, dtype: int64
+Rows before removing exact duplicates:
+Demographics: 3200
+Transactions: 3200
+Social media: 3200
+
+Rows after removing exact duplicates:
+Demographics: 3023
+Transactions: 3015
+Social media: 3020
+
+Rows removed:
+Demographics: 177
+Transactions: 185
+Social media: 180
+                     Dataset      ID Column  Rows with Duplicated ID  Number of Duplicated IDs
+0      Customer Demographics     CustomerID                       46                        23
+1      Customer Transactions  TransactionID                       30                        15
+2  Social Media Interactions  InteractionID                       40                        20
+Sample duplicated CustomerID records:
+                                CustomerID      Age  Gender          Location IncomeLevel           SignupDate
+3024  08995799-8d0f-40d6-986b-452074709b5f       61    Male     New Lukeville      Medium  2020-03-28 00:00:00
+1536  08995799-8d0f-40d6-986b-452074709b5f       61    Male     New Lukeville      Medium           15/11/2019
+3085  1e9e7dcb-e612-46d3-bae6-0c2f47fa0220       44  Female        Brianmouth      Medium  2019-07-11 00:00:00
+304   1e9e7dcb-e612-46d3-bae6-0c2f47fa0220       44  Female        Brianmouth      Medium  2022-07-28 00:00:00
+3083  29436bcf-d6f8-44d1-a856-0794abb562ab       68  Female          New Fred         Low  2020-12-03 00:00:00
+754   29436bcf-d6f8-44d1-a856-0794abb562ab       68  Female          New Fred         Low  2021-09-01 00:00:00
+3051  2cd16dfc-d7b0-47ec-9999-b018daea7f8d       52  Female  Lake Carloshaven      Medium  2024-05-02 00:00:00
+2106  2cd16dfc-d7b0-47ec-9999-b018daea7f8d  Unknown  Female  Lake Carloshaven      Medium  2024-05-02 00:00:00
+1238  3814b8e4-cade-4665-86af-dda3e3628f17       32  Female  Port Bonnieshire      Medium  2021-06-25 00:00:00
+3004  3814b8e4-cade-4665-86af-dda3e3628f17      150  Female  Port Bonnieshire      Medium  2021-06-25 00:00:00
+Sample duplicated TransactionID records:
+                                CustomerID                         TransactionID      TransactionDate  Amount  ProductCategory  PaymentMethod
+2118  778da54b-8f96-4609-a21b-bba3d7f071ea  022cfd97-a8e8-4e50-8700-2720d52bfd75  2022-08-23 00:00:00  586.87  Health & Beauty         PayPal
+3005  778da54b-8f96-4609-a21b-bba3d7f071ea  022cfd97-a8e8-4e50-8700-2720d52bfd75  2022-08-23 00:00:00    Free  Health & Beauty         PayPal
+3174  6a84f1a7-f636-4300-bd8d-c7f888460829  185ee140-348a-4461-bd40-07a7e8535815  2023-10-09 00:00:00       0  Health & Beauty         PayPal
+413   6a84f1a7-f636-4300-bd8d-c7f888460829  185ee140-348a-4461-bd40-07a7e8535815  2023-10-09 00:00:00  953.86  Health & Beauty         PayPal
+3038  b94b3531-591d-445c-b282-dcacb0baca5b  27fb25aa-f148-423f-967c-4d1764e26b29  2024-04-18 00:00:00    -100       Automotive    Credit Card
+431   b94b3531-591d-445c-b282-dcacb0baca5b  27fb25aa-f148-423f-967c-4d1764e26b29           30/07/2022  506.96       Automotive    Credit Card
+2081  e7cf6999-b4ec-4ce4-bb09-bfd18d61d933  2e0b66a9-af5d-4cf9-bb60-55ab2932edee  2023-05-10 00:00:00  504.42      Electronics  Bank Transfer
+3073  e7cf6999-b4ec-4ce4-bb09-bfd18d61d933  2e0b66a9-af5d-4cf9-bb60-55ab2932edee  2023-05-10 00:00:00    -100      Electronics  Bank Transfer
+3050  a9af986b-d677-421a-81df-3d289ce9e38f  5f93f1dc-0363-4e69-979b-f5d58fd42658  2023-09-30 00:00:00    -100              NaN  Bank Transfer
+220   a9af986b-d677-421a-81df-3d289ce9e38f  5f93f1dc-0363-4e69-979b-f5d58fd42658  2023-09-30 00:00:00  125.77              NaN  Bank Transfer
+Sample duplicated InteractionID records:
+                                CustomerID                         InteractionID      InteractionDate   Platform InteractionType      Sentiment
+374   11b046f0-b091-4bfb-b0f4-df58bfea039a  01f1c8c8-df21-4d75-adbb-feb6d4c84317           29/04/2024  Instagram            Like       Positive
+3005  11b046f0-b091-4bfb-b0f4-df58bfea039a  01f1c8c8-df21-4d75-adbb-feb6d4c84317  2024-03-20 00:00:00  Instagram            Like       Positive
+3093  2ddc8052-fbbe-471c-a43e-54b81467423d  04391eb2-8391-44d8-9f45-29edcde96e5d  2023-11-30 00:00:00    Twitter           Share  Very Positive
+2183  2ddc8052-fbbe-471c-a43e-54b81467423d  04391eb2-8391-44d8-9f45-29edcde96e5d  2023-11-30 00:00:00    Twitter           Share       Negative
+2532  e06f0e16-8e48-483b-b103-9f105b139ca8  071a2657-12a8-4216-9c64-baf9ab5c9420  2024-04-30 00:00:00    Twitter           Share  Very Positive
+3166  e06f0e16-8e48-483b-b103-9f105b139ca8  071a2657-12a8-4216-9c64-baf9ab5c9420  2024-04-30 00:00:00    Twitter           Share        Neutral
+3084  68afa4cc-e2d5-4150-b358-2e14e7508721  0942889b-a3a9-4039-b4b0-12fb8714c95f           24/01/2024    Twitter         Comment       Negative
+2490  68afa4cc-e2d5-4150-b358-2e14e7508721  0942889b-a3a9-4039-b4b0-12fb8714c95f  2024-06-14 00:00:00    Twitter         Comment       Negative
+3017  a44b6ca5-c73e-4f7a-919c-617931e33a29  13b59881-5aaf-4510-9dcf-4f9d116bf645  2024-04-06 00:00:00  Instagram            Like       Positive
+2135  a44b6ca5-c73e-4f7a-919c-617931e33a29  13b59881-5aaf-4510-9dcf-4f9d116bf645  2023-07-28 00:00:00  Instagram            Like       Positive
+        Dataset  Rows retained  Conflict rows  Conflicting IDs
+0  Demographics           3023             46               23
+1  Transactions           3015             30               15
+2  Social media           3020             40               20
+
+Customer Demographics
+CustomerID       0
+Age            276
+Gender           0
+Location         0
+IncomeLevel    285
+SignupDate       0
+IDConflict       0
+dtype: int64
+
+Customer Transactions
+CustomerID           0
+TransactionID        0
+TransactionDate      0
+Amount             283
+ProductCategory    282
+PaymentMethod        0
+IDConflict           0
+dtype: int64
+
+Social Media Interactions
+CustomerID           0
+InteractionID        0
+InteractionDate      0
+Platform           291
+InteractionType      0
+Sentiment          309
+IDConflict           0
+dtype: int64
+Conflict evidence saved to: /workspace/scratch/081de1a72367/output/Terminal_Assessment/data_audit
+Invalid Age text:
+Age
+Unknown    34
+Name: count, dtype: int64
+
+Suspicious numeric ages:
+Age
+-1.0      30
+ 150.0    33
+Name: count, dtype: int64
+
+Invalid Amount text:
+Amount
+Free    30
+Name: count, dtype: int64
+
+Zero or negative transaction amounts:
+Amount
+-100.0    40
+ 0.0      30
+Name: count, dtype: int64
+
+Gender:
+Gender
+Female    1528
+Male      1495
+Name: count, dtype: int64
+
+IncomeLevel:
+IncomeLevel
+High      946
+Low       923
+Medium    869
+NaN       285
+Name: count, dtype: int64
+
+ProductCategory:
+ProductCategory
+Clothing           571
+Electronics        564
+Automotive         540
+Home & Garden      530
+Health & Beauty    528
+NaN                282
+Name: count, dtype: int64
+
+PaymentMethod:
+PaymentMethod
+Debit Card       767
+Credit Card      755
+PayPal           750
+Bank Transfer    743
+Name: count, dtype: int64
+
+Platform:
+Platform
+Instagram    921
+Twitter      917
+Facebook     891
+NaN          291
+Name: count, dtype: int64
+
+InteractionType:
+InteractionType
+Comment    1018
+Share      1007
+Like        995
+Name: count, dtype: int64
+
+Sentiment:
+Sentiment
+Positive         905
+Neutral          874
+Negative         866
+NaN              309
+Very Negative     34
+Very Positive     32
+Name: count, dtype: int64
+Original age status:
+AgeStatus
+Observed                  2650
+Missing                    276
+Outside screening rule      63
+Non-numeric                 34
+Name: count, dtype: int64
+
+Median used: 45.0
+Ages imputed: 373
+Missing ages after imputation: 0
+Missing or unparseable signup dates: 0
+Amount handling:
+AmountStatus
+Numeric                2632
+Missing                 283
+Negative: review         40
+Non-numeric: review      30
+Zero: retained           30
+Name: count, dtype: int64
+
+Missing numeric amounts:
+313
+
+Unparseable or missing transaction dates:
+0
+Missing values after cleaning:
+CustomerID             0
+InteractionID          0
+InteractionDate        0
+Platform               0
+InteractionType        0
+Sentiment              0
+IDConflict             0
+PlatformOriginal     291
+SentimentOriginal    309
+SentimentGrouped       0
+dtype: int64
+
+Platform counts:
+Platform
+Instagram    921
+Twitter      917
+Facebook     891
+Unknown      291
+Name: count, dtype: Int64
+
+Sentiment counts—original categories:
+Sentiment
+Positive         905
+Neutral          874
+Negative         866
+Unknown          309
+Very Negative     34
+Very Positive     32
+Name: count, dtype: Int64
+
+Sentiment counts—grouped categories:
+SentimentGrouped
+Positive    937
+Negative    900
+Neutral     874
+Unknown     309
+Name: count, dtype: Int64
+
+Rows flagged for conflicting interaction IDs:
+40
+                     Dataset  Rows retained  Columns  Exact duplicates  Missing/blank primary IDs  Repeated-ID rows  Flagged conflict rows  Conflict flags match repeated IDs  Missing dates  Date dtype valid
+0      Customer Demographics           3023       11                 0                          0                46                     46                               True              0              True
+1      Customer Transactions           3015        9                 0                          0                30                     30                               True              0              True
+2  Social Media Interactions           3020       10                 0                          0                40                     40                               True              0              True
+EDA row reconciliation:
+                     Dataset  Retained rows  Excluded conflict rows  EDA rows  Repeated primary IDs in EDA
+0      Customer Demographics           3023                      46      2977                            0
+1      Customer Transactions           3015                      30      2985                            0
+2  Social Media Interactions           3020                      40      2980                            0
+
+Age checks in the EDA view:
+Observed ages available: 2615
+Observed ages meet the provisional 18–100 screening rule: True
+Rows with imputed ages: 362
+
+Amount status in the EDA view:
+AmountStatus
+Numeric                2614
+Missing                 281
+Negative: review         33
+Non-numeric: review      29
+Zero: retained           28
+Name: count, dtype: int64
+Missing numeric amounts: 310
+Zero amounts retained: 28
+Negative amounts requiring review: 33
+Rows available for nonnegative amount statistics: 2642
+Rows excluded from amount statistics: 343
+
+CustomerID connection checks—retained datasets:
+Transactions: 0 missing/blank CustomerIDs; 0 rows with unmatched CustomerIDs
+Social media: 0 missing/blank CustomerIDs; 0 rows with unmatched CustomerIDs
+
+Unresolved ID conflicts and amount issues remain documented. These checks do not establish that the data is fully ready for ML.
+Exports saved and dimensions verified:
+         Folder                                   File  Rows  Columns
+0  data_cleaned      customer_demographics_cleaned.csv  3023       11
+1  data_cleaned      customer_transactions_cleaned.csv  3015        9
+2  data_cleaned  social_media_interactions_cleaned.csv  3020       10
+3      data_eda          customer_demographics_eda.csv  2977       11
+4      data_eda          customer_transactions_eda.csv  2985        9
+5      data_eda      social_media_interactions_eda.csv  2980       10
+6      data_eda   customer_transactions_amount_eda.csv  2642        9
+
+Retained dataset folder: /workspace/scratch/081de1a72367/output/Terminal_Assessment/data_cleaned
+EDA dataset folder: /workspace/scratch/081de1a72367/output/Terminal_Assessment/data_eda
+Age statistics—unresolved ID conflicts excluded:
+                  Age data  Count   Mean  Median Mode(s)
+0       Observed ages only   2615  44.59    45.0  [62.0]
+1  After median imputation   2977  44.64    45.0  [45.0]
+
+Ages filled by imputation: 362
+
+Use observed ages for the main age-distribution findings. Imputation can increase the frequency of the median age, so the imputed mode should not be interpreted as the most common observed customer age.
+Age spread—unresolved ID conflicts excluded:
+                  Age data  Count  Standard deviation  Variance  Minimum  Maximum  Range    Q1    Q3   IQR
+0       Observed ages only   2615               15.42    237.81     18.0     70.0   52.0  31.0  58.0  27.0
+1  After median imputation   2977               14.45    208.90     18.0     70.0   52.0  33.0  57.0  24.0
+
+Standard deviation and variance use the sample formulas (ddof=1). Use the observed-age row for the main findings; median imputation can reduce the measured spread.
+DEMOGRAPHICS — unresolved ID conflicts excluded
+
+Gender — denominator: 2977 rows
+Distinct nonmissing categories: 2
+        Count  Percent
+Gender                
+Female   1502    50.45
+Male     1475    49.55
+
+Location — denominator: 2977 rows
+Distinct nonmissing categories: 2677
+                Count  Percent
+Location                      
+Port Michael        5     0.17
+West Michael        4     0.13
+West Robert         4     0.13
+West David          4     0.13
+Port Eric           4     0.13
+North Jennifer      4     0.13
+Michaelton          4     0.13
+Michaelville        4     0.13
+East Brittany       3     0.10
+Michaelhaven        3     0.10
+Brownbury           3     0.10
+Williamshaven       3     0.10
+New David           3     0.10
+Paulton             3     0.10
+East Amy            3     0.10
+Showing the 15 most frequent categories out of 2677 categories.
+
+IncomeLevel — denominator: 2977 rows
+Distinct nonmissing categories: 4
+             Count  Percent
+IncomeLevel                
+High           924    31.04
+Low            913    30.67
+Medium         857    28.79
+Unknown        283     9.51
+
+TRANSACTIONS — unresolved ID conflicts excluded
+
+PaymentMethod — denominator: 2985 rows
+Distinct nonmissing categories: 4
+               Count  Percent
+PaymentMethod                
+Debit Card       757    25.36
+Credit Card      751    25.16
+PayPal           744    24.92
+Bank Transfer    733    24.56
+
+ProductCategory — denominator: 2985 rows
+Distinct nonmissing categories: 6
+                 Count  Percent
+ProductCategory                
+Clothing           565    18.93
+Electronics        558    18.69
+Automotive         536    17.96
+Home & Garden      528    17.69
+Health & Beauty    520    17.42
+Unknown            278     9.31
+
+NONNEGATIVE TRANSACTION AMOUNT STATISTICS
+   Count    Mean  Median  Standard deviation  Minimum      Q1      Q3  Maximum     IQR  Skewness  Zero amounts
+0   2642  499.03  503.66              292.46      0.0  237.98  749.18   999.86  511.19      0.02            28
+Transaction rows excluded from amount statistics: 343
+
+Amount distribution — 10 equal-width bins:
+                    Count  Percent
+Amount                            
+(-1.001, 99.986]      268    10.14
+(99.986, 199.972]     277    10.48
+(199.972, 299.958]    271    10.26
+(299.958, 399.944]    251     9.50
+(399.944, 499.93]     247     9.35
+(499.93, 599.916]     286    10.83
+(599.916, 699.902]    244     9.24
+(699.902, 799.888]    266    10.07
+(799.888, 899.874]    243     9.20
+(899.874, 999.86]     289    10.94
+
+SOCIAL MEDIA — unresolved ID conflicts excluded
+
+Platform — denominator: 2980 rows
+Distinct nonmissing categories: 4
+           Count  Percent
+Platform                 
+Instagram    911    30.57
+Twitter      897    30.10
+Facebook     883    29.63
+Unknown      289     9.70
+
+InteractionType — denominator: 2980 rows
+Distinct nonmissing categories: 3
+                 Count  Percent
+InteractionType                
+Comment           1006    33.76
+Share              993    33.32
+Like               981    32.92
+
+Sentiment — denominator: 2980 rows
+Distinct nonmissing categories: 6
+               Count  Percent
+Sentiment                    
+Positive         890    29.87
+Neutral          867    29.09
+Negative         857    28.76
+Unknown          307    10.30
+Very Negative     30     1.01
+Very Positive     29     0.97
+
+SentimentGrouped — denominator: 2980 rows
+Distinct nonmissing categories: 4
+                  Count  Percent
+SentimentGrouped                
+Positive            919    30.84
+Negative            887    29.77
+Neutral             867    29.09
+Unknown             307    10.30
+
+Unknown identifies undetermined categories. SentimentGrouped combines intensity levels for analysis; Sentiment retains those levels.
+
+These results describe the selected EDA subsets. Mean/median similarity alone does not establish uniformity or absence of bias.
+
+Demographics: 2977 rows, 11 columns
+             Missing  Unknown
+IncomeLevel        0      283
+AgeOriginal      276       29
+AgeObserved      362        0
+
+Transactions: 2985 rows, 9 columns
+                 Missing  Unknown
+Amount               310        0
+ProductCategory        0      278
+AmountOriginal       281        0
+
+Social media: 2980 rows, 10 columns
+                   Missing  Unknown
+Platform                 0      289
+Sentiment                0      307
+PlatformOriginal       289        0
+SentimentOriginal      307        0
+SentimentGrouped         0      307
+
+Missing values in Original columns preserve source evidence. Missing AgeObserved values identify ages unavailable under the provisional screening rule.
+
+PaymentMethod vs ProductCategory — counts:
+ProductCategory  Automotive  Clothing  Electronics  Health & Beauty  Home & Garden  Unknown
+PaymentMethod                                                                              
+Bank Transfer           127       137          138              126            140       65
+Credit Card             130       149          132              146            125       69
+Debit Card              128       150          153              122            144       60
+PayPal                  151       129          135              126            119       84
+
+ProductCategory percentages within each PaymentMethod:
+ProductCategory  Automotive  Clothing  Electronics  Health & Beauty  Home & Garden  Unknown
+PaymentMethod                                                                              
+Bank Transfer         17.33     18.69        18.83            17.19          19.10     8.87
+Credit Card           17.31     19.84        17.58            19.44          16.64     9.19
+Debit Card            16.91     19.82        20.21            16.12          19.02     7.93
+PayPal                20.30     17.34        18.15            16.94          15.99    11.29
+
+Descriptive association:
+Rows included: 2985
+Cramer's V: 0.0436
+
+Cramer's V describes association in this selected subset: values nearer 0 indicate weaker association. It does not prove independence or establish that model features are free from collinearity.
+
+Future ML validation still requires a defined target, appropriate train/test splitting, training-only fitting of imputation and encoding, and checks for leakage and bias. Unresolved conflicts and amount issues require further review.

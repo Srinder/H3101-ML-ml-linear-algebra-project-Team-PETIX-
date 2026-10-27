@@ -1,0 +1,17 @@
+PASS: regenerated data_cleaned/customer_transactions_cleaned.csv matches supplied data (3,015 rows).
+PASS: regenerated data_cleaned/social_media_interactions_cleaned.csv matches supplied data (3,020 rows).
+PASS: regenerated data_cleaned/customer_demographics_cleaned.csv matches supplied data (3,023 rows).
+PASS: regenerated data_eda/customer_demographics_eda.csv matches supplied data (2,977 rows).
+PASS: regenerated data_eda/customer_transactions_eda.csv matches supplied data (2,985 rows).
+PASS: regenerated data_eda/customer_transactions_amount_eda.csv matches supplied data (2,642 rows).
+PASS: regenerated data_eda/social_media_interactions_eda.csv matches supplied data (2,980 rows).
+PASS: regenerated data_audit/social_media_id_conflicts.csv matches supplied data (40 rows).
+PASS: regenerated data_audit/demographics_id_conflicts.csv matches supplied data (46 rows).
+PASS: regenerated data_audit/transactions_id_conflicts.csv matches supplied data (30 rows).
+PASS: principal slide values verified: analysis counts, age and amount summaries, 28 zeros, 27 unmatched transactions, joined sample and Pearson r=0.0315.
+PASS: final_ml_visualizations.ipynb parses as notebook JSON; all code cells compile as Python.
+PASS: terminal_ml_solution_project.ipynb parses as notebook JSON; all code cells compile as Python.
+PASS: both Python exports executed sequentially without errors; seven charts regenerated.
+LIMIT: notebooks were validated structurally and through sequential Python exports; a Jupyter kernel run was not performed in this environment.
+LIMIT: this validates the supplied repository snapshot; live GitHub contents, permissions, team approval, and mentor feedback were not verified.
+LIMIT: presentation references and future ML proposals were not independently externally verified; no model has been trained or evaluated.
